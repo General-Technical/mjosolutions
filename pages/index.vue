@@ -4,7 +4,7 @@
       <LogoStacked />
     </FadeUp>
     <FadeRight class="self-end">
-      <img src="mjo-house.svg" />
+      <img src="mjo-house.png" />
     </FadeRight>
   </section>
 </template>
