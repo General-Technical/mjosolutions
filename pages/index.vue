@@ -3,8 +3,6 @@
     <FadeUp class="w-96 my-auto">
       <LogoStacked />
     </FadeUp>
-    <FadeRight class="self-end">
-      <img src="MJO_House.svg" />
-    </FadeRight>
+    <img src="MJO_House.svg" class="self-end" />
   </section>
 </template>
