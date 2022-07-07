@@ -38,7 +38,7 @@
               <input
                 type="hidden"
                 name="subject"
-                value="contact form - tm.ox"
+                value="Contact Form - MJO Solutions"
               />
               <input type="hidden" name="replyTo" value="@" />
               <input
