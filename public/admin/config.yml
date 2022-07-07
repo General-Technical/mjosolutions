@@ -2,6 +2,10 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 
+site_url: https://mjosolutions.netlify.app/
+display_url: https://mjosolutions.netlify.app/
+logo_url: https://mjosolutions.netlify.app/MJO_IconLogo.jpg
+
 media_folder: static/img
 public_folder: /img
 
@@ -15,10 +19,8 @@ collections:
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Intro, name: intro, widget: markdown }
-          - label: Team
-            name: team
-            widget: list
-            fields:
-              - { label: Name, name: name, widget: string }
-              - { label: Position, name: position, widget: string }
-              - { label: Photo, name: photo, widget: image }
+          - { label: Solutions, name: solutions, widget: markdown }
+          - { label: What, name: what, widget: markdown }
+          - { label: Why, name: why, widget: markdown }
+          - { label: Where, name: where, widget: markdown }
+          - { label: Contact, name: contact, widget: markdown }
