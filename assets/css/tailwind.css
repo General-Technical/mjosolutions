@@ -18,13 +18,13 @@
       @apply flex flex-col items-center justify-center min-h-screen;
     }
     h1 {
-        @apply text-4xl text-center font-light pt-12;
+        @apply text-4xl text-center text-secondary font-bold uppercase leading-3;
     }
     h2 {
         @apply text-5xl text-center font-bold pt-12 text-secondary;
     }
     h3 {
-        @apply text-xl text-center font-bold tracking-widest uppercase my-4;
+        @apply text-xl text-center font-bold tracking-widest uppercase my-4 leading-6;
     }
     a {
         @apply text-sm text-center text-secondary font-light uppercase tracking-widest px-2;

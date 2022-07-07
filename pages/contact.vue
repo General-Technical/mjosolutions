@@ -44,7 +44,7 @@
               <input
                 type="hidden"
                 name="redirectTo"
-                value="https://tm.oxenfree.net/sent"
+                value="https://mjosolutions.netlify.app/sent"
               />
             </div>
             <button class="submitButton" type="submit">submit</button>
