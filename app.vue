@@ -1,6 +1,8 @@
 <template>
-  <Head />
-  <NuxtLayout>
-    <NuxtPage x-data />
-  </NuxtLayout>
+  <div>
+    <Head />
+    <NuxtLayout>
+      <NuxtPage x-data />
+    </NuxtLayout>
+  </div>
 </template>
