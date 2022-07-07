@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <body>
     <Nav />
     <main>
       <slot />
@@ -7,5 +7,5 @@
         <House />
       </FadeLeft>
     </main>
-  </div>
+  </body>
 </template>

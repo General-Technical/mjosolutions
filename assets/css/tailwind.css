@@ -9,10 +9,13 @@
       @apply w-full mx-auto font-josefin tracking-wide bg-background text-primary;
     }
     nav {
-        @apply flex items-end fixed top-6 left-6 z-50;
+        @apply flex items-end fixed top-6 z-50;
+      }
+      body {
+        @apply max-w-5xl mx-auto px-6;
       }
     section {
-      @apply flex flex-col items-center justify-center min-h-screen p-6;
+      @apply flex flex-col items-center justify-center min-h-screen;
     }
     h1 {
         @apply text-4xl text-center font-light pt-12;
