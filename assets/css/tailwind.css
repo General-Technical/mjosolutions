@@ -11,7 +11,7 @@
     nav {
         @apply flex items-end fixed top-6 z-50;
       }
-      body {
+    body {
         @apply max-w-5xl mx-auto px-6;
       }
     section {
