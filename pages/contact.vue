@@ -12,20 +12,20 @@
               <input
                 type="text"
                 name="name"
-                placeholder="name"
+                placeholder="Name"
                 required
                 class="form autofill:bg-primary"
               />
               <input
                 type="email"
                 name="email"
-                placeholder="email"
+                placeholder="Email"
                 required
                 class="form"
               />
               <textarea
                 name="message"
-                placeholder="message"
+                placeholder="Message"
                 required
                 class="form pb-0 mb-0"
               ></textarea>
