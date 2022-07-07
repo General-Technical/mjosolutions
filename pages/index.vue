@@ -1,10 +1,15 @@
 <template>
   <section>
-    <FadeUp class="w-96 my-auto">
+    <FadeDown class="flex flex-col">
       <LogoStacked />
-    </FadeUp>
-    <FadeLeft class="self-end w-80">
-      <House />
-    </FadeLeft>
+      <h3 class="mt-8 mb-1">Coming Soon</h3>
+      <NuxtLink to="contact">Enquiries</NuxtLink>
+    </FadeDown>
   </section>
 </template>
+
+<script>
+definePageMeta({
+  layout: "holding",
+});
+</script>

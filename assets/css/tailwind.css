@@ -8,8 +8,11 @@
     html {
       @apply w-full mx-auto font-josefin tracking-wide bg-background text-primary;
     }
+    nav {
+        @apply flex items-end fixed top-6 left-6 z-50;
+      }
     section {
-      @apply flex flex-col items-center justify-center min-h-screen;
+      @apply flex flex-col items-center justify-center min-h-screen p-6;
     }
     h1 {
         @apply text-4xl text-center font-light pt-12;
@@ -17,10 +20,33 @@
     h2 {
         @apply text-5xl text-center font-bold pt-12 text-secondary;
     }
+    h3 {
+        @apply text-xl text-center font-bold tracking-widest uppercase my-4;
+    }
+    a {
+        @apply text-sm text-center text-secondary font-light uppercase tracking-widest px-2;
+    }
+    a:hover {
+        @apply text-primary trans;
+    }
+    textarea {
+        @apply h-24;
+      }
 }
 
 @layer components {
-
+    .container {
+        @apply flex flex-1 min-h-max justify-center items-center mb-20 mt-6;
+      }
+      .form {
+        @apply mb-4 px-4 rounded-lg border-0 ring-0 focus:border-0 focus:ring-0 text-lg font-light text-background placeholder:text-background;
+      }
+      .submitButton {
+        @apply self-center bg-primary font-bold uppercase text-background hover:bg-background hover:text-primary border-[1px] border-primary pt-1 px-6 rounded-lg trans;
+      }
+    .trans {
+        @apply transition duration-300 ease-in-out;
+      }
 }
 
 input:-webkit-autofill,
@@ -32,8 +58,8 @@ textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #fc019c;
-  -webkit-box-shadow: 0 0 0px 1000px #101119 inset;
+  -webkit-text-fill-color: #22293b;
+  -webkit-box-shadow: 0 0 0px 1000px #fff inset;
   transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -54,6 +80,7 @@ html {
   .page-enter-active,
   .page-leave-active {
     transition: all 0.75s;
+
   }
   .page-enter,
   .page-leave-to {
