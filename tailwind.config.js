@@ -19,6 +19,9 @@ module.exports = {
       animation: {
         "pulse-slow": "pulse 8s cubic-bezier(0.4, 0, 0.6, 1) infinite",
       },
+      dropShadow: {
+        "3xl": "3px 3px 3px rgba(75, 189, 164, 0.5)",
+      },
     },
   },
 
