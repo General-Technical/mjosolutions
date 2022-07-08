@@ -10,7 +10,8 @@
               v-for="intro of intro"
               :key="intro.slug"
             >
-              <MarkdownRenderer :value="intro" />
+              <h2>{{ intro.intro1 }}</h2>
+              <h2>{{ intro.intro2 }}</h2>
             </div>
           </div>
           <a href="#solutions"><Arrow class="arrow" /></a>
@@ -25,16 +26,21 @@
           </a>
           <div class="col-start-3 col-span-4 flex flex-col">
             <Roof class="h-auto ml-auto w-1/3" />
-            <div class="bg-primary rounded-b rounded-tl p-4 py-6 pt-10">
+            <div
+              class="bg-primary rounded-b rounded-tl p-4 py-6 pt-10"
+              :data="solutions"
+              v-for="solutions of solutions"
+              :key="solutions.slug"
+            >
               <h4 class="text-background mb-2 text-center">
-                MJO Mortgage Solutions provides lending solutions for:
+                {{ solutions.header }}
               </h4>
               <div class="text-background font-normal">
-                <h5>First Home Buyers</h5>
-                <h5>Investors</h5>
-                <h5>Refinancers</h5>
-                <h5>Full Time, Part time and Casual workers</h5>
-                <h5>Self Employed and PAYG Clients</h5>
+                <h5>{{ solutions.sol1 }}</h5>
+                <h5>{{ solutions.sol2 }}</h5>
+                <h5>{{ solutions.sol3 }}</h5>
+                <h5>{{ solutions.sol4 }}</h5>
+                <h5>{{ solutions.sol5 }}</h5>
               </div>
             </div>
           </div>
@@ -50,9 +56,9 @@
           <a href="#solutions" class="col-span-6"
             ><Arrow class="arrow uparrow" />
           </a>
-          <h4 class="col-span-6">{{ what.header }}</h4>
-          <div class="col-span-6 columns-2">
-            <MarkdownRenderer :value="what" />
+          <div class="col-span-6">
+            <h4 class="col-span-6">{{ what.header }}</h4>
+            <MarkdownRenderer :value="what" class="columns-2" />
           </div>
           <a href="#why" class="col-span-6">
             <Arrow class="arrow" />
@@ -68,18 +74,21 @@
           </a>
           <div class="col-start-3 col-span-4 flex flex-col">
             <Roof class="h-auto ml-auto w-1/3" />
-            <div class="bg-primary rounded-b rounded-tl p-4 py-6 pt-10">
-              <h4 class="text-background mb-2 text-center">Why</h4>
+            <div
+              class="bg-primary rounded-b rounded-tl p-4 py-6 pt-10"
+              :data="why"
+              v-for="why of why"
+              :key="why.slug"
+            >
+              <h4 class="text-background mb-2 text-center">
+                {{ why.header }}
+              </h4>
               <div class="text-background font-normal">
-                <h5>Using a Mortgage broking is FREE!</h5>
-                <h5>
-                  We offer loans from a range of lenders, as opposed to banks,
-                  which exclusively offer their own products.
-                </h5>
-                <h5>
-                  We save you time, let us do the legwork and find the best loan
-                  for you.
-                </h5>
+                <h5>{{ why.why1 }}</h5>
+                <h5>{{ why.why2 }}</h5>
+                <h5>{{ why.why3 }}</h5>
+                <h5>{{ why.why4 }}</h5>
+                <h5>{{ why.why5 }}</h5>
               </div>
             </div>
           </div>
@@ -126,8 +135,14 @@
 const { data: intro } = await useAsyncData("intro", () =>
   queryContent("/pages/about/intro").find()
 );
+const { data: solutions } = await useAsyncData("solutions", () =>
+  queryContent("/pages/about/solutions").find()
+);
 const { data: what } = await useAsyncData("what", () =>
   queryContent("/pages/about/what").find()
+);
+const { data: why } = await useAsyncData("why", () =>
+  queryContent("/pages/about/why").find()
 );
 const { data: where } = await useAsyncData("where", () =>
   queryContent("/pages/about/where").find()

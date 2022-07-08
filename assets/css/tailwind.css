@@ -23,13 +23,13 @@
         @apply text-4xl text-center text-secondary font-bold uppercase leading-3;
     }
     h2 {
-        @apply text-5xl text-left font-light leading-[55px];
+        @apply text-5xl text-left !text-primary font-light leading-[55px];
     }
     h3 {
         @apply text-xl text-center font-bold tracking-widest uppercase m-4 leading-6;
     }
     h4 {
-        @apply text-xl text-left font-bold uppercase;
+        @apply text-xl text-left font-bold uppercase mb-4;
     }
     h5 {
         @apply font-body text-lg text-center leading-5 mb-2;

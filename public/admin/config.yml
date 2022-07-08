@@ -10,8 +10,8 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - label: "Pages"
-    name: "pages"
+  - label: "About Page"
+    name: "about"
     files:
       - label: "Intro"
         name: "intro"
@@ -19,10 +19,32 @@ collections:
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Header, name: header, widget: string }
-          - { label: Body, name: body, widget: markdown }
+          - { label: Intro1, name: intro1, widget: string }
+          - { label: Intro2, name: intro1, widget: string }
+      - label: "Solutions"
+        name: "solutions"
+        file: "/content/pages/about/solutions.md"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Header, name: header, widget: string }
+          - { label: Sol1, name: sol1, widget: string }
+          - { label: Sol2, name: sol2, widget: string }
+          - { label: Sol3, name: sol3, widget: string }
+          - { label: Sol4, name: sol4, widget: string }
+          - { label: Sol5, name: sol5, widget: string }
+      - label: "What"
+      - label: "What"
+      - label: "What"
       - label: "What"
         name: "what"
         file: "/content/pages/about/what.md"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Header, name: header, widget: string }
+          - { label: Body, name: body, widget: markdown }
+      - label: "Where"
+        name: "where"
+        file: "/content/pages/about/where.md"
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Header, name: header, widget: string }
