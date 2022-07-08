@@ -105,6 +105,10 @@ html {
   body::-webkit-scrollbar {
     display: none;
   }
+
+h2 {
+color: aqua;
+  }
   
   /* Page Transittion */
   .page-enter-from{

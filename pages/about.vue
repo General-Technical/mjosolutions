@@ -4,12 +4,14 @@
       <FadeUp>
         <div class="grid6">
           <div class="col-span-6 mx-auto">
-            <h2>
-              A mortgage is a significant financial decision, and it can be
-              difficult to figure out which loan is best for you and your family
-              with the hundreds of options available in Australia. This is where
-              we can help!
-            </h2>
+            <div
+              class="col-span-6"
+              :data="intro"
+              v-for="intro of intro"
+              :key="intro.slug"
+            >
+              <MarkdownRenderer :value="intro" />
+            </div>
           </div>
           <a href="#solutions"><Arrow class="arrow" /></a>
         </div>
@@ -121,6 +123,9 @@
 </template>
 
 <script setup>
+const { data: intro } = await useAsyncData("intro", () =>
+  queryContent("/pages/about/intro").find()
+);
 const { data: what } = await useAsyncData("what", () =>
   queryContent("/pages/about/what").find()
 );
