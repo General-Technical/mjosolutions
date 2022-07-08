@@ -42,45 +42,15 @@
         </div>
       </FadeUp>
     </section>
-    <section id="what">
+    <section id="what" :data="what" v-for="what of what" :key="what.slug">
       <FadeUp>
         <div class="grid6">
           <a href="#solutions" class="col-span-6"
             ><Arrow class="arrow uparrow" />
           </a>
-          <h4 class="col-span-6">What we do to help you</h4>
-          <div class="col-span-3">
-            <p>
-              At MJO Mortgage Solutions we'll discuss what is important to you
-              so we can get a detailed picture of what you need from a loan.
-            </p>
-            <p>
-              We will calculate your borrowing capacity to provide insight into
-              what can be borrowed.
-            </p>
-            <p>
-              Following this we compare loans from a panel of lenders to find
-              the one that best suits your wants, needs and goals.
-            </p>
-            <p>
-              We will assist in structuring your application to increase your
-              chances of success.
-            </p>
-          </div>
-          <div class="col-span-3">
-            <p>
-              We'll submit your loan and manage the process through to
-              settlement.
-            </p>
-            <p>
-              We pride ourselves on staying up to date with the industry
-              standards. Our clients can trust that they are engaging a mortgage
-              broker who upholds compliance and ethical standards with their
-              personal information. Our goal is to develop long-term connections
-              with our clients so that they feel comfortable contacting us if
-              any questions emerge during the application process and throughout
-              the life of the loan.
-            </p>
+          <h4 class="col-span-6">{{ what.header }}</h4>
+          <div class="col-span-6 columns-2">
+            <MarkdownRenderer :value="what" />
           </div>
           <a href="#why" class="col-span-6">
             <Arrow class="arrow" />
@@ -118,36 +88,46 @@
       </FadeUp>
     </section>
     <section id="where">
-      <FadeUp>
-        <div class="grid6">
-          <a href="#why" class="col-span-6"><Arrow class="arrow uparrow" /> </a>
-          <h4 class="col-span-3">Where</h4>
-          <div class="col-span-3">
-            <p>We service Australia wide.</p>
-            <p>
-              We know how challenging it can be for people to juggle their
-              everyday lives with work and family commitments, so finding the
-              time to meet with a mortgage broker can be difficult.
-            </p>
-            <p>
-              Luckily, we are a mobile brokerage and can meet you whenever is
-              most convenient for you via zoom, on the weekends.
-            </p>
-          </div>
-          <h4 class="row-start-2 col-start-4">Contact</h4>
-          <div class="col-span-3">
-            <p>
-              If you are looking to buy your first home, refinance, or invest
-              real estate, get in touch . . . . with deez nuts.
-            </p>
-            <NuxtLink to="contact" class="p-0"
-              ><button class="submitButton mt-4" type="submit">
-                contact
-              </button></NuxtLink
-            >
-          </div>
+      <FadeUp class="grid6">
+        <a href="#why" class="col-span-6"><Arrow class="arrow uparrow" /></a>
+        <!-- Where -->
+        <div
+          class="col-span-3"
+          :data="where"
+          v-for="where of where"
+          :key="where.slug"
+        >
+          <h4>{{ where.header }}</h4>
+          <MarkdownRenderer :value="where" />
+        </div>
+        <!-- Conttact -->
+        <div
+          class="col-span-3"
+          :data="contact"
+          v-for="contact of contact"
+          :key="contact.slug"
+        >
+          <h4>{{ contact.header }}</h4>
+          <MarkdownRenderer :value="contact" />
+          <NuxtLink to="contact" class="p-0"
+            ><button class="submitButton mt-4" type="submit">
+              contact
+            </button></NuxtLink
+          >
         </div>
       </FadeUp>
     </section>
   </div>
 </template>
+
+<script setup>
+const { data: what } = await useAsyncData("what", () =>
+  queryContent("/pages/about/what").find()
+);
+const { data: where } = await useAsyncData("where", () =>
+  queryContent("/pages/about/where").find()
+);
+const { data: contact } = await useAsyncData("contact", () =>
+  queryContent("/pages/about/contact").find()
+);
+</script>

@@ -13,14 +13,17 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "About Page"
-        name: "about"
-        file: "/content/pages/about.md"
+      - label: "Intro"
+        name: "intro"
+        file: "/content/pages/about/intro.md"
         fields:
           - { label: Title, name: title, widget: string }
-          - { label: Intro, name: intro, widget: markdown }
-          - { label: Solutions, name: solutions, widget: markdown }
-          - { label: What, name: what, widget: markdown }
-          - { label: Why, name: why, widget: markdown }
-          - { label: Where, name: where, widget: markdown }
-          - { label: Contact, name: contact, widget: markdown }
+          - { label: Header, name: header, widget: string }
+          - { label: Body, name: body, widget: markdown }
+      - label: "What"
+        name: "what"
+        file: "/content/pages/about/what.md"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Header, name: header, widget: string }
+          - { label: Body, name: body, widget: markdown }
