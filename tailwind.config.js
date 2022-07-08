@@ -14,10 +14,12 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        josefin: ["Josefin Sans", "sans-serif"],
+        display: ["Josefin Sans", "sans-serif"],
+        body: ["Lato", "sans-serif"],
       },
       animation: {
-        "pulse-slow": "pulse 8s cubic-bezier(0.4, 0, 0.6, 1) infinite",
+        "pulse-slow": "pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite",
+        "ping-slow": "ping 2s cubic-bezier(0, 0.2, 0.6, 0.8) infinite",
       },
       dropShadow: {
         "3xl": "3px 3px 3px rgba(75, 189, 164, 0.5)",
