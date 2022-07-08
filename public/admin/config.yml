@@ -33,15 +33,23 @@ collections:
           - { label: Sol4, name: sol4, widget: string }
           - { label: Sol5, name: sol5, widget: string }
       - label: "What"
-      - label: "What"
-      - label: "What"
-      - label: "What"
         name: "what"
         file: "/content/pages/about/what.md"
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Header, name: header, widget: string }
           - { label: Body, name: body, widget: markdown }
+      - label: "Why"
+        name: "why"
+        file: "/content/pages/about/why.md"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Header, name: header, widget: string }
+          - { label: Why1, name: why1, widget: string }
+          - { label: Why2, name: why2, widget: string }
+          - { label: Why3, name: why3, widget: string }
+          - { label: Why4, name: why4, widget: string }
+          - { label: Why5, name: why5, widget: string }
       - label: "Where"
         name: "where"
         file: "/content/pages/about/where.md"
