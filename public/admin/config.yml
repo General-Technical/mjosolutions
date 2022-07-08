@@ -48,8 +48,6 @@ collections:
           - { label: Why1, name: why1, widget: string }
           - { label: Why2, name: why2, widget: string }
           - { label: Why3, name: why3, widget: string }
-          - { label: Why4, name: why4, widget: string }
-          - { label: Why5, name: why5, widget: string }
       - label: "Where"
         name: "where"
         file: "/content/pages/about/where.md"
