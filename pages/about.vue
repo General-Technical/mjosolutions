@@ -1,10 +1,21 @@
 <template>
   <div>
     <section id="intro" :data="intro" v-for="intro of intro" :key="intro.slug">
-      <FadeUp class="content">
-        <h2>{{ intro.intro1 }}</h2>
-        <h2>{{ intro.intro2 }}</h2>
-        <a href="#solutions" class="w-full mt-8"><Arrow class="arrow" /></a>
+      <div class="flex flex-col mt-auto">
+        <FadeDown class="w-4/5 mx-auto h-24 md:h-32 mb-8 flex items-start">
+          <LogoStacked class="pointer-events-none mb-auto" />
+        </FadeDown>
+        <FadeUp class="w-4/5 mx-auto">
+          <h1>{{ intro.intro1 }}</h1>
+        </FadeUp>
+      </div>
+      <FadeUp class="w-full mt-auto">
+        <a href="#solutions" class="w-full">
+          <h2 class="w-24 text-secondary animate-pulse-slow">
+            {{ intro.intro2 }}
+          </h2>
+          <Arrow class="arrow"
+        /></a>
       </FadeUp>
     </section>
     <section
@@ -13,10 +24,12 @@
       v-for="solutions of solutions"
       :key="solutions.slug"
     >
-      <a href="#intro" class="w-full">
-        <Arrow class="arrow uparrow" />
-      </a>
-      <FadeUp class="content">
+      <FadeDown class="w-full mb-auto">
+        <a href="#intro" class="w-full">
+          <Arrow class="arrow uparrow" />
+        </a>
+      </FadeDown>
+      <FadeDown class="content">
         <div class="card w-2/4 items-center justify-center">
           <Roof class="ml-auto w-1/4" />
           <div class="card-content md:flex-row">
@@ -32,26 +45,34 @@
             </div>
           </div>
         </div>
+      </FadeDown>
+      <FadeUp class="w-full mt-auto">
+        <a href="#what" class="w-full">
+          <Arrow class="arrow" />
+        </a>
       </FadeUp>
-      <a href="#what" class="w-full">
-        <Arrow class="arrow" />
-      </a>
     </section>
     <section id="what" :data="what" v-for="what of what" :key="what.slug">
-      <a href="#solutions" class="w-full">
-        <Arrow class="arrow uparrow" />
-      </a>
-      <FadeUp class="content">
+      <FadeDown class="w-full mb-auto">
+        <a href="#solutions" class="w-full">
+          <Arrow class="arrow uparrow" />
+        </a>
+      </FadeDown>
+      <FadeDown class="content">
         <h4>{{ what.header }}</h4>
         <MarkdownRenderer :value="what" class="col2" />
+      </FadeDown>
+      <FadeUp class="w-full mt-auto">
+        <a href="#why" class="w-full">
+          <Arrow class="arrow" />
+        </a>
       </FadeUp>
-      <a href="#why" class="w-full">
-        <Arrow class="arrow" />
-      </a>
     </section>
     <section id="why" :data="why" v-for="why of why" :key="why.slug">
-      <a href="#what" class="w-full"><Arrow class="arrow uparrow" /> </a>
-      <FadeUp class="content">
+      <FadeDown class="w-full mb-auto">
+        <a href="#what" class="w-full"><Arrow class="arrow uparrow" /> </a>
+      </FadeDown>
+      <FadeDown class="content">
         <div class="card w-2/4">
           <Roof class="ml-auto w-1/4" />
           <div class="card-content">
@@ -67,16 +88,20 @@
             </div>
           </div>
         </div>
+      </FadeDown>
+      <FadeUp class="w-full mt-auto">
+        <a href="#where" class="w-full">
+          <Arrow class="arrow" />
+        </a>
       </FadeUp>
-      <a href="#where" class="w-full">
-        <Arrow class="arrow" />
-      </a>
     </section>
     <section id="where">
-      <a href="#why" class="w-full">
-        <Arrow class="arrow uparrow" />
-      </a>
-      <FadeUp class="content">
+      <FadeDown class="w-full mb-auto">
+        <a href="#why" class="w-full">
+          <Arrow class="arrow uparrow" />
+        </a>
+      </FadeDown>
+      <FadeDown class="content mb-auto">
         <div class="flex flex-col md:flex-row">
           <!-- Where -->
           <div
@@ -105,7 +130,8 @@
             </NuxtLink>
           </div>
         </div>
-      </FadeUp>
+      </FadeDown>
+      <FadeUp class="w-full mt-auto"> </FadeUp>
     </section>
   </div>
 </template>

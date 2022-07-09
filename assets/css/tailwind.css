@@ -11,16 +11,16 @@
       @apply w-full mx-auto font-display tracking-wide bg-background text-primary;
     }
     body {
-        @apply max-w-5xl mx-auto px-6;
+        @apply max-w-7xl mx-auto px-6;
       }
     section {
       @apply flex flex-col items-center justify-center min-h-screen py-16;
     }
     h1 {
-        @apply text-4xl text-center text-secondary font-bold uppercase leading-3;
+        @apply text-3xl md:text-4xl text-center text-primary font-light !leading-[50px];
     }
     h2 {
-        @apply text-5xl text-left !text-primary font-light leading-[55px];
+        @apply  text-left font-medium uppercase mb-4;
     }
     h3 {
         @apply text-lg tracking-widest uppercase leading-6 mb-2;
@@ -103,10 +103,6 @@ html {
     display: none;
   }
 
-h2 {
-color: aqua;
-  }
-  
   /* Page Transittion */
   .page-enter-from{
     opacity: 0;

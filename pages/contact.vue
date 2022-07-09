@@ -6,7 +6,7 @@
         method="post"
         class="flex flex-col w-full max-w-xl mx-auto"
       >
-        <FadeUp>
+        <FadeDown>
           <div class="flex flex-col">
             <div class="flex flex-col px-4 py-6 rounded-xl mb-6 bg-primary">
               <input
@@ -49,7 +49,7 @@
             </div>
             <button class="submitButton" type="submit">submit</button>
           </div>
-        </FadeUp>
+        </FadeDown>
       </form>
     </div>
   </section>
