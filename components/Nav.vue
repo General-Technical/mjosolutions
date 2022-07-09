@@ -1,9 +1,9 @@
 <template>
   <nav>
     <NuxtLink to="/"><Icon class="h-8" /></NuxtLink>
-    <NuxtLink to="/" class="ml-2">Home</NuxtLink>
-    <NuxtLink to="about">About</NuxtLink>
-    <NuxtLink to="contact">Contact</NuxtLink>
+    <NuxtLink to="/" class="ml-6">Home</NuxtLink>
+    <NuxtLink to="about" class="ml-4">About</NuxtLink>
+    <NuxtLink to="contact" class="ml-4">Contact</NuxtLink>
   </nav>
 </template>
 

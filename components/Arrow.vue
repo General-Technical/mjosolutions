@@ -7,7 +7,6 @@
     viewBox="0 0 386.257 386.257"
     style="enable-background: new 0 0 386.257 386.257"
     xml:space="preserve"
-    class="fill-primary hover:fill-secondary trans animate-pulse-slow"
   >
     <polygon points="0,96.879 193.129,289.379 386.257,96.879 " />
   </svg>

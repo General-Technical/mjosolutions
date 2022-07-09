@@ -54,4 +54,12 @@ collections:
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Header, name: header, widget: string }
+          - { label: Subheader, name: subheader, widget: string }
+          - { label: Body, name: body, widget: markdown }
+      - label: "Contact"
+        name: "contact"
+        file: "/content/pages/about/contact.md"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Header, name: header, widget: string }
           - { label: Body, name: body, widget: markdown }
