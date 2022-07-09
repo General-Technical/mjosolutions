@@ -1,11 +1,11 @@
 <template>
   <section>
+    <FadeDown class="logo">
+      <LogoStacked />
+    </FadeDown>
     <FadeUp class="flex flex-col">
-      <h1>Thanks</h1>
-      <h3 class="mb-1">
-        Your message <br />
-        has been sent
-      </h3>
+      <h1 class="text-center uppercase">Thanks</h1>
+      <p class="text-center mb-4">Your message has been sent</p>
       <NuxtLink to="/">Back</NuxtLink>
     </FadeUp>
   </section>

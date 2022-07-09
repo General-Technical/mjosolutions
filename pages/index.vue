@@ -1,8 +1,10 @@
 <template>
   <section>
-    <FadeDown class="flex flex-col w-80">
+    <FadeDown class="logo">
       <LogoStacked />
-      <h3 class="mt-8 text-center">Full Site <br />Coming Soon</h3>
     </FadeDown>
+    <FadeUp>
+      <h3 class="mt-8 text-center">Full Site <br />Coming Soon</h3>
+    </FadeUp>
   </section>
 </template>

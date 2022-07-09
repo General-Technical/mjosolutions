@@ -2,8 +2,8 @@
   <div>
     <section id="intro" :data="intro" v-for="intro of intro" :key="intro.slug">
       <div class="flex flex-col mt-auto">
-        <FadeDown class="w-4/5 mx-auto h-24 md:h-32 mb-8 flex items-start">
-          <LogoStacked class="pointer-events-none mb-auto" />
+        <FadeDown class="logo">
+          <LogoStacked />
         </FadeDown>
         <FadeUp class="w-4/5 mx-auto">
           <h1>{{ intro.intro1 }}</h1>

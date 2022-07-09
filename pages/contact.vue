@@ -1,12 +1,15 @@
 <template>
   <section>
     <div class="container">
+      <FadeDown class="logo">
+        <LogoStacked />
+      </FadeDown>
       <form
         action="https://api.staticforms.xyz/submit"
         method="post"
         class="flex flex-col w-full max-w-xl mx-auto"
       >
-        <FadeDown>
+        <FadeUp>
           <div class="flex flex-col">
             <div class="flex flex-col px-4 py-6 rounded-xl mb-6 bg-primary">
               <input
@@ -49,7 +52,7 @@
             </div>
             <button class="submitButton" type="submit">submit</button>
           </div>
-        </FadeDown>
+        </FadeUp>
       </form>
     </div>
   </section>
