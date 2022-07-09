@@ -4,7 +4,7 @@
       <form
         action="https://api.staticforms.xyz/submit"
         method="post"
-        class="flex flex-col w-full max-w-xl"
+        class="flex flex-col w-full max-w-xl mx-auto"
       >
         <FadeUp>
           <div class="flex flex-col">
