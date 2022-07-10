@@ -26,7 +26,7 @@
         @apply text-lg tracking-widest uppercase leading-6 mb-2;
     }
     h4 {
-        @apply text-xl text-left font-bold uppercase mb-4;
+        @apply text-2xl text-left font-bold uppercase mb-4;
     }
     h5 {
         @apply font-body font-light normal-case text-lg leading-5;
