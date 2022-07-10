@@ -1,6 +1,6 @@
 <template>
   <section>
-    <FadeDown class="logo">
+    <FadeDown class="page-logo">
       <LogoStacked />
     </FadeDown>
     <FadeUp class="flex flex-col">

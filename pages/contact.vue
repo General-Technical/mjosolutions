@@ -1,7 +1,7 @@
 <template>
   <section>
     <div class="container">
-      <FadeDown class="logo">
+      <FadeDown class="page-logo">
         <LogoStacked />
       </FadeDown>
       <form
