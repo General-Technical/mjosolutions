@@ -110,14 +110,9 @@ const { data: contact } = await useAsyncData("contact", () =>
           <Arrow class="arrow uparrow" />
         </a>
       </FadeDown>
-      <div class="flex flex-col md:flex-row w-4/5 mx-auto">
+      <div class="grid md:grid-cols-2 gap-10 w-4/5 mx-auto mb-auto">
         <!-- Where -->
-        <div
-          class="md:w-1/2 md:pr-4"
-          :data="where"
-          v-for="where of where"
-          :key="where.slug"
-        >
+        <div :data="where" v-for="where of where" :key="where.slug">
           <FadeDown>
             <h4>{{ where.header }}</h4>
           </FadeDown>
@@ -129,25 +124,18 @@ const { data: contact } = await useAsyncData("contact", () =>
           </FadeUp>
         </div>
         <!-- Conttact -->
-        <div
-          class="md:w-1/2 md:pl-4 mt-6 md:mt-0"
-          :data="contact"
-          v-for="contact of contact"
-          :key="contact.slug"
-        >
+        <div :data="contact" v-for="contact of contact" :key="contact.slug">
           <FadeDown>
             <h4>{{ contact.header }}</h4>
           </FadeDown>
           <FadeUp>
             <MarkdownRenderer :value="contact" />
-
             <NuxtLink to="contact" class="p-0"
               ><button class="submitButton mt-4" type="submit">contact</button>
             </NuxtLink>
           </FadeUp>
         </div>
       </div>
-      <FadeUp class="w-full mt-auto"> </FadeUp>
     </section>
   </div>
 </template>
