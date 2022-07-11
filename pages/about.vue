@@ -26,7 +26,7 @@ const { data: contact } = await useAsyncData("contact", () =>
         <FadeDown class="page-logo">
           <LogoStacked />
         </FadeDown>
-        <FadeUp class="w-4/5 mx-auto">
+        <FadeUp class="sm:w-4/5 mx-auto">
           <h1>{{ intro.intro1 }}</h1>
         </FadeUp>
       </div>
@@ -50,10 +50,10 @@ const { data: contact } = await useAsyncData("contact", () =>
           <Arrow class="arrow uparrow" />
         </a>
       </FadeDown>
-      <FadeDown class="w-4/5 mx-auto">
+      <FadeDown class="sm:w-4/5 mx-auto">
         <h4 class="text-center">{{ solutions.header }}:</h4>
       </FadeDown>
-      <FadeUp class="w-4/5 mx-auto mt-4">
+      <FadeUp class="sm:w-4/5 mx-auto mt-4">
         <h2>{{ solutions.sol1 }}</h2>
         <h2>{{ solutions.sol2 }}</h2>
         <h2>{{ solutions.sol3 }}</h2>
@@ -72,10 +72,10 @@ const { data: contact } = await useAsyncData("contact", () =>
           <Arrow class="arrow uparrow" />
         </a>
       </FadeDown>
-      <FadeDown class="mt-auto w-4/5">
+      <FadeDown class="mt-auto w-full">
         <h4>{{ what.header }}</h4>
       </FadeDown>
-      <FadeUp class="mb-auto w-4/5">
+      <FadeUp class="mb-auto sm:w-4/5">
         <MarkdownRenderer :value="what" class="md:col2 gap-10" />
       </FadeUp>
       <FadeUp class="w-full mt-auto">
@@ -88,10 +88,10 @@ const { data: contact } = await useAsyncData("contact", () =>
       <FadeDown class="w-full mb-auto">
         <a href="#what" class="w-full"><Arrow class="arrow uparrow" /> </a>
       </FadeDown>
-      <FadeDown class="w-4/5 mx-auto">
+      <FadeDown class="sm:w-4/5 mx-auto">
         <h4 class="text-center">{{ why.header }}</h4>
       </FadeDown>
-      <FadeUp class="w-4/5 mx-auto mt-4">
+      <FadeUp class="sm:w-4/5 mx-auto mt-4">
         <h2>{{ why.why1 }}</h2>
         <h2>{{ why.why2 }}</h2>
         <h2>{{ why.why3 }}</h2>
@@ -110,7 +110,7 @@ const { data: contact } = await useAsyncData("contact", () =>
           <Arrow class="arrow uparrow" />
         </a>
       </FadeDown>
-      <div class="grid md:grid-cols-2 gap-10 w-4/5 mx-auto mb-auto">
+      <div class="grid md:grid-cols-2 gap-4 md:gap-10 sm:w-4/5 mx-auto mb-auto">
         <!-- Where -->
         <div :data="where" v-for="where of where" :key="where.slug">
           <FadeDown>
