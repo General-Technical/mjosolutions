@@ -72,7 +72,7 @@ const { data: contact } = await useAsyncData("contact", () =>
           <Arrow class="arrow uparrow" />
         </a>
       </FadeDown>
-      <FadeDown class="mt-auto w-full">
+      <FadeDown class="mt-auto w-full sm:w-4/5">
         <h4>{{ what.header }}</h4>
       </FadeDown>
       <FadeUp class="mb-auto sm:w-4/5">
