@@ -7,9 +7,6 @@
         <NuxtLink to="/" class="nav-item">Home</NuxtLink>
       </li>
       <li>
-        <NuxtLink to="about" class="nav-item">About</NuxtLink>
-      </li>
-      <li>
         <NuxtLink to="contact" class="nav-item">Contact</NuxtLink>
       </li>
     </ul>
