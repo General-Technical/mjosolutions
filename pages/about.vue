@@ -1,24 +1,3 @@
-<script setup>
-const { data: intro } = await useAsyncData("intro", () =>
-  queryContent("/pages/about/intro").find()
-);
-const { data: solutions } = await useAsyncData("solutions", () =>
-  queryContent("/pages/about/solutions").find()
-);
-const { data: what } = await useAsyncData("what", () =>
-  queryContent("/pages/about/what").find()
-);
-const { data: why } = await useAsyncData("why", () =>
-  queryContent("/pages/about/why").find()
-);
-const { data: where } = await useAsyncData("where", () =>
-  queryContent("/pages/about/where").find()
-);
-const { data: contact } = await useAsyncData("contact", () =>
-  queryContent("/pages/about/contact").find()
-);
-</script>
-
 <template>
   <div>
     <section id="intro" :data="intro" v-for="intro of intro" :key="intro.slug">
@@ -139,3 +118,24 @@ const { data: contact } = await useAsyncData("contact", () =>
     </section>
   </div>
 </template>
+
+<script setup>
+const { data: intro } = await useAsyncData("intro", () =>
+  queryContent("/pages/about/intro").find()
+);
+const { data: solutions } = await useAsyncData("solutions", () =>
+  queryContent("/pages/about/solutions").find()
+);
+const { data: what } = await useAsyncData("what", () =>
+  queryContent("/pages/about/what").find()
+);
+const { data: why } = await useAsyncData("why", () =>
+  queryContent("/pages/about/why").find()
+);
+const { data: where } = await useAsyncData("where", () =>
+  queryContent("/pages/about/where").find()
+);
+const { data: contact } = await useAsyncData("contact", () =>
+  queryContent("/pages/about/contact").find()
+);
+</script>

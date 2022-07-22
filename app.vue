@@ -2,7 +2,7 @@
   <div>
     <HeadSection />
     <HeaderSection />
-    <NuxtPage x-data />
+    <NuxtPage />
     <Footer />
   </div>
 </template>
