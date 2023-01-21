@@ -10,7 +10,7 @@
       <NuxtLink to="/faq" class="nav-item">FAQ</NuxtLink>
     </li>
     <li>
-      <a href="/about/#contact" class="nav-item call-button">Contact</a>
+      <a href="/#contact" class="nav-item call-button">Contact</a>
     </li>
   </ul>
 </template>
