@@ -46,6 +46,8 @@ The types of personal information we collect include:
 - payment details; and
 
 - personal information about your spouse and dependants.
+<br/>
+<br/>
 <p class="text-left">
 It may be necessary in some circumstances for MJO Mortgage Solutions to collect sensitive information about you in order to provide specific services or for recruiting purposes. Examples of the types of sensitive information that may be collected in such circumstances include professional memberships, ethnic origin, criminal record and health information. It is generally not practical to remain anonymous or to use a pseudonym when dealing with MJO Mortgage Solutions as usually we need to use your personal information to provide specific services to you, or which relate to or involve you.
 
@@ -113,6 +115,8 @@ MJO Mortgage Solutions collects, holds and uses personal information for a numbe
 - to perform internal statistical analysis, including of our databases and website;
 
 - for any other business-related purposes.
+<br/>
+<br/>
 <p class="text-left">
 If you do not provide us with the personal information we have requested, we may not be able to complete or fulfil the purpose for which such information was collected, including providing you or our clients with the services we were engaged to perform.
 
@@ -131,6 +135,8 @@ The types of third parties to whom we may disclose your personal information inc
 - as part of an actual (or proposed) acquisition, disposition, merger or de-merger of a business or to enter into an alliance, joint venture or referral arrangement; or
 
 - government or regulatory bodies or agencies, as part of an engagement or otherwise, (for example, the Australian Taxation Office).
+<br/>
+<br/>
 <p class="text-left">
 We do not disclose personal information to third parties for the purpose of allowing them to send marketing material to you. However, we may share non-personal, de-identified or aggregated information to them for research or promotional purposes.
 
@@ -204,6 +210,8 @@ Data loss prevention is broadly defined as technology or processes that:
 - Tracks data usage.
 
 - Prevents unauthorized access to data.
+<br/>
+<br/>
 <p class="text-left">
 Data loss prevention tools include software products that can classify and protect data. The data loss prevention policy guides how those tools work.
 
