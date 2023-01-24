@@ -15,27 +15,27 @@ This Privacy Policy does not apply to personal information collected by MJO Mort
 
 ### The types of personal information we collect include:
 
-&#8226; names, job titles, contact and address details;
+- names, job titles, contact and address details;
 
-&#8226; information in identification documents (for example, passport, driver’s licence);
+- information in identification documents (for example, passport, driver’s licence);
 
-&#8226; tax file numbers and other government-issued identification numbers;
+- tax file numbers and other government-issued identification numbers;
 
-&#8226; date of birth and gender;
+- date of birth and gender;
 
-&#8226; bank account details, shareholdings and details of investments;
+- bank account details, shareholdings and details of investments;
 
-&#8226; details of superannuation and insurance arrangements;
+- details of superannuation and insurance arrangements;
 
-&#8226; educational qualifications, employment history, salary and referee reports;
+- educational qualifications, employment history, salary and referee reports;
 
-&#8226; visa or work permit status;
+- visa or work permit status;
 
-&#8226; your Internet Protocol (IP) address;
+- your Internet Protocol (IP) address;
 
-&#8226; payment details; and
+- payment details; and
 
-&#8226; personal information about your spouse and dependants.
+- personal information about your spouse and dependants.
 
 It may be necessary in some circumstances for MJO Mortgage Solutions to collect sensitive information about you in order to provide specific services or for recruiting purposes. Examples of the types of sensitive information that may be collected in such circumstances include professional memberships, ethnic origin, criminal record and health information. It is generally not practical to remain anonymous or to use a pseudonym when dealing with MJO Mortgage Solutions as usually we need to use your personal information to provide specific services to you, or which relate to or involve you.
 
@@ -57,57 +57,57 @@ MJO Mortgage Solutions holds personal information in hard copy and electronic fo
 
 ### MJO Mortgage Solutions collects, holds and uses personal information for a number of purposes including:
 
-&#8226; to provide professional services;
+- to provide professional services;
 
-&#8226; to provide technology services and solutions;
+- to provide technology services and solutions;
 
-&#8226; to respond to requests or queries;
+- to respond to requests or queries;
 
-&#8226; to maintain contact with our clients and other contacts;
+- to maintain contact with our clients and other contacts;
 
-&#8226; to keep our clients and other contacts informed of our services and industry developments;
+- to keep our clients and other contacts informed of our services and industry developments;
 
-&#8226; to notify of seminars and other events;
+- to notify of seminars and other events;
 
-&#8226; to verify your identity;
+- to verify your identity;
 
-&#8226; for administrative purposes, including processing payment transactions;
+- for administrative purposes, including processing payment transactions;
 
-&#8226; for recruitment purposes;
+- for recruitment purposes;
 
-&#8226; for purposes relating to the employment of our personnel, providing internal services or benefits to our partners and staff and for matters relating to the partnership;
+- for purposes relating to the employment of our personnel, providing internal services or benefits to our partners and staff and for matters relating to the partnership;
 
-&#8226; when engaging service providers, contractors or suppliers relating to the operation of our business;
+- when engaging service providers, contractors or suppliers relating to the operation of our business;
 
-&#8226; to manage any conflict of interest or independence (including auditor independence) obligations or situations;
+- to manage any conflict of interest or independence (including auditor independence) obligations or situations;
 
-&#8226; to conduct surveys;
+- to conduct surveys;
 
-&#8226; for seeking your feedback;
+- for seeking your feedback;
 
-&#8226; to meet any regulatory obligations;
+- to meet any regulatory obligations;
 
-&#8226; as part of an actual (or proposed) acquisition, disposition, merger or de-merger of a business or entering into an alliance, joint venture or referral arrangement;
+- as part of an actual (or proposed) acquisition, disposition, merger or de-merger of a business or entering into an alliance, joint venture or referral arrangement;
 
-&#8226; to perform internal statistical analysis, including of our databases and website;
+- to perform internal statistical analysis, including of our databases and website;
 
-&#8226; for any other business-related purposes.
+- for any other business-related purposes.
 
 If you do not provide us with the personal information we have requested, we may not be able to complete or fulfil the purpose for which such information was collected, including providing you or our clients with the services we were engaged to perform.
 
 ### The types of third parties to whom we may disclose your personal information include:
 
-&#8226; experts or other third parties contracted as part of an engagement;
+- experts or other third parties contracted as part of an engagement;
 
-&#8226; our service providers;
+- our service providers;
 
-&#8226; our professional advisers;
+- our professional advisers;
 
-&#8226; as part of an engagement, if you are a customer, an employee, a contractor or supplier of services to one of our clients, then we may disclose your personal information as part of providing services to that client;
+- as part of an engagement, if you are a customer, an employee, a contractor or supplier of services to one of our clients, then we may disclose your personal information as part of providing services to that client;
 
-&#8226; as part of an actual (or proposed) acquisition, disposition, merger or de-merger of a business or to enter into an alliance, joint venture or referral arrangement; or
+- as part of an actual (or proposed) acquisition, disposition, merger or de-merger of a business or to enter into an alliance, joint venture or referral arrangement; or
 
-&#8226; government or regulatory bodies or agencies, as part of an engagement or otherwise, (for example, the Australian Taxation Office).
+- government or regulatory bodies or agencies, as part of an engagement or otherwise, (for example, the Australian Taxation Office).
 
 We do not disclose personal information to third parties for the purpose of allowing them to send marketing material to you. However, we may share non-personal, de-identified or aggregated information to them for research or promotional purposes.
 
@@ -133,21 +133,21 @@ If you are an individual residing in the EU, you have certain rights as to how y
 
 ### Except as otherwise provided in the GDPR, you have the following rights:
 
-&#8226; to be informed how your personal information is being used;
+- to be informed how your personal information is being used;
 
-&#8226; access your personal information (we will provide you with a free copy of it);
+- access your personal information (we will provide you with a free copy of it);
 
-&#8226; to correct your personal information if it is inaccurate or incomplete;
+- to correct your personal information if it is inaccurate or incomplete;
 
-&#8226; to delete your personal information (also known as "the right to be forgotten");
+- to delete your personal information (also known as "the right to be forgotten");
 
-&#8226; to restrict processing of your personal information;
+- to restrict processing of your personal information;
 
-&#8226; to retain and reuse your personal information for your own purposes;
+- to retain and reuse your personal information for your own purposes;
 
-&#8226; to object to your personal information being used; and
+- to object to your personal information being used; and
 
-&#8226; to object against automated decision making and profiling.
+- to object against automated decision making and profiling.
 
 #### Hosting and International Data Transfers
 
@@ -169,11 +169,11 @@ MJO Mortgage Solutions utilises Data Loss Prevention policies. A data loss preve
 
 ### Data loss prevention is broadly defined as technology or processes that:
 
-&#8226; Identifies confidential data.
+- Identifies confidential data.
 
-&#8226; Tracks data usage.
+- Tracks data usage.
 
-&#8226; Prevents unauthorized access to data.
+- Prevents unauthorized access to data.
 
 Data loss prevention tools include software products that can classify and protect data. The data loss prevention policy guides how those tools work.
 
@@ -185,11 +185,11 @@ Data storage is available in the cloud and remote locations. As the number of em
 
 ### Data collection and use are coming under increased regulatory scrutiny. There are three main reasons for establishing a data loss prevention policy:
 
-&#8226; Compliance: Governments have various levels of regulation of how organisations collect and secure personally identifiable information. A data loss prevention policy is an important part of complying with data regulation and reporting information in compliance audits.
+- Compliance: Governments have various levels of regulation of how organisations collect and secure personally identifiable information. A data loss prevention policy is an important part of complying with data regulation and reporting information in compliance audits.
 
-&#8226; Intellectual property: Proprietary information and trade secrets are the types of information that needs to be protected from unauthorised access.
+- Intellectual property: Proprietary information and trade secrets are the types of information that needs to be protected from unauthorised access.
 
-&#8226; Data visibility: Organizations can gain valuable insights by monitoring how stakeholders’ access and interact with data.
+- Data visibility: Organizations can gain valuable insights by monitoring how stakeholders’ access and interact with data.
 
 #### Our Practices for Establishing A Data Loss Prevention Policy
 
@@ -197,27 +197,27 @@ Data loss prevention policies help us prevent unauthorised data access and prote
 
 ### While no protection will be bulletproof, we use the following practices that can help us implement successful data protection policies:
 
-&#8226; Identify the data that the policy is primarily meant to protect. Most often data is classified according to its vulnerability and risk factors. Taking the time to understand data and classify it can lead to greater insights for us.
+- Identify the data that the policy is primarily meant to protect. Most often data is classified according to its vulnerability and risk factors. Taking the time to understand data and classify it can lead to greater insights for us.
 
-&#8226; Establish criteria for evaluating data loss prevention vendors. Creating an evaluation framework with the right questions can help lead to an educated purchasing decision.
+- Establish criteria for evaluating data loss prevention vendors. Creating an evaluation framework with the right questions can help lead to an educated purchasing decision.
 
-&#8226; Clearly define the roles of people who will be involved with data loss prevention. This is not just about who will monitor data usage and make the rules. Segregating responsibilities helps prevent misuse.
+- Clearly define the roles of people who will be involved with data loss prevention. This is not just about who will monitor data usage and make the rules. Segregating responsibilities helps prevent misuse.
 
-&#8226; Keeping it simple at the beginning. The goal is to secure the most critical data and get a measurable win early, then build upon that.
+- Keeping it simple at the beginning. The goal is to secure the most critical data and get a measurable win early, then build upon that.
 
-&#8226; Each area of MJO Mortgage Solutions has a role in shaping a data loss prevention policy that aligns with corporate culture. This is a strategy that affects all departments and functions.
+- Each area of MJO Mortgage Solutions has a role in shaping a data loss prevention policy that aligns with corporate culture. This is a strategy that affects all departments and functions.
 
-&#8226; Educating everyone in MJO Mortgage Solutions about how and why the data loss prevention policy is in place.
+- Educating everyone in MJO Mortgage Solutions about how and why the data loss prevention policy is in place.
 
-&#8226; Document the data loss prevention processes carefully. A written policy should focus on the data being protected.
+- Document the data loss prevention processes carefully. A written policy should focus on the data being protected.
 
-&#8226; Setting and sharing metrics for success.
+- Setting and sharing metrics for success.
 
-&#8226; Anticipate workarounds to limits (e.g. If email rules prevent large files from being attached, employees find other ways to transfer files). We examine workflows to make sure data loss prevention policies does not get in the way of us doing our jobs.
+- Anticipate workarounds to limits (e.g. If email rules prevent large files from being attached, employees find other ways to transfer files). We examine workflows to make sure data loss prevention policies does not get in the way of us doing our jobs.
 
-&#8226; Assess how much data is needed (what kind of data is needed and why). Do not save unnecessary data.
+- Assess how much data is needed (what kind of data is needed and why). Do not save unnecessary data.
 
-&#8226; Monitor data usage before blocking it. Set up data loss prevention tools to report sensitive data loss first.
+- Monitor data usage before blocking it. Set up data loss prevention tools to report sensitive data loss first.
 
 #### Using Data Loss Prevention Policy Templates
 
@@ -227,11 +227,11 @@ There are a number of data privacy laws already in effect, not to mention the ho
 
 ### Our data loss prevention policy contains three elements:
 
-&#8226; Location: Where the policy will be enforced.
+- Location: Where the policy will be enforced.
 
-&#8226; Condition: The parameters the policy searches for to prevent data loss.
+- Condition: The parameters the policy searches for to prevent data loss.
 
-&#8226; Action: If a situation meets the set conditions, an action is taken to prevent loss.
+- Action: If a situation meets the set conditions, an action is taken to prevent loss.
 
 #### Direct Marketing
 
@@ -239,11 +239,11 @@ MJO Mortgage Solutions may also use your personal information for the purpose of
 
 ### If you do not want to receive marketing material from us, you can contact us as detailed below:
 
-&#8226; for electronic communications, you can click on the unsubscribe function in the communication (if available); or
+- for electronic communications, you can click on the unsubscribe function in the communication (if available); or
 
-&#8226; for hard copy communications, you can email info@generaltechnical.com.au; or
+- for hard copy communications, you can email info@generaltechnical.com.au; or
 
-&#8226; through our contact details below.
+- through our contact details below.
 
 #### Privacy on Our Websites
 
