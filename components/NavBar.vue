@@ -1,15 +1,15 @@
 <template>
   <ul class="flex gap-6 text-center flex-col md:flex-row">
-    <li>
+    <li class="list-none ml-0">
       <NuxtLink to="/" class="nav-item">Home</NuxtLink>
     </li>
-    <li>
+    <li class="list-none ml-0">
       <NuxtLink to="/lenders" class="nav-item">Lenders</NuxtLink>
     </li>
-    <li>
+    <li class="list-none ml-0">
       <NuxtLink to="/faq" class="nav-item">FAQ</NuxtLink>
     </li>
-    <li>
+    <li class="list-none ml-0">
       <a href="/#contact" class="nav-item call-button">Contact</a>
     </li>
   </ul>

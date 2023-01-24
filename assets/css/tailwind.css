@@ -49,8 +49,11 @@
   h3 {
     @apply font-display font-medium text-lg sm:text-2xl text-center sm:text-left uppercase leading-snug sm:leading-8 text-background mb-auto;
   }
+  h3 a {
+    @apply pointer-events-none uppercase text-base text-left;
+  }
   h4 {
-    @apply mb-2 text-xl text-primary text-center sm:text-left font-bold uppercase w-full mt-5 tracking-wider;
+    @apply mb-2 text-xl text-primary text-left font-bold uppercase w-full mt-5 tracking-wider;
   }
   h4 a {
     @apply pointer-events-none text-xl text-primary font-bold uppercase w-full;
@@ -60,6 +63,9 @@
   }
   h6 {
     @apply text-left font-light mb-2 tracking-wide;
+  }
+  li {
+    @apply list-disc list-outside ml-5 text-lg font-light;
   }
 }
 
