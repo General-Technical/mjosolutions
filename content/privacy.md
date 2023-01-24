@@ -15,11 +15,11 @@ MJO Mortgage Solutions
 #### Introduction
 
 <p class="text-left">
-MJO Mortgage Solutions is committed to treating the personal information we collect in accordance with the Australian Privacy Principles in the Privacy Act 1988 (Cth) (Privacy Act) and to the extent applicable, the EU General Data Protection Regulation (GDPR). This Privacy Policy sets out how MJO Mortgage Solutions handles personal information.
+MJO Mortgage Solutions is committed to treating the personal information we collect in accordance with the Australian Privacy Principles in the Privacy Act 1988 (Cth) (Privacy Act) and, to the extent applicable, the EU General Data Protection Regulation (GDPR). This Privacy Policy sets out how MJO Mortgage Solutions handles personal information.
 <p class="text-left">
-This Privacy Policy does not apply to personal information collected by MJO Mortgage Solutions that is exempted under the Privacy Act, for example employee records. MJO Mortgage Solutions may modify this Privacy Policy from time to time to reflect its current privacy practices. In this Privacy Policy, ‘MJO Mortgage Solutions’, ‘we’, ‘us’ and ‘our’ is a reference to MJO Mortgage Solutions and includes any entity carrying on business in Australia that is part of MJO Mortgage Solutions.
+This Privacy Policy does not apply to personal information collected by MJO Mortgage Solutions that is exempted under the Privacy Act, such as employee records. MJO Mortgage Solutions may modify this Privacy Policy from time to time to reflect its current privacy practices. In this Privacy Policy, 'MJO Mortgage Solutions', 'we', 'us' and 'our' is a reference to MJO Mortgage Solutions and includes any entity carrying on business in Australia that is part of MJO Mortgage Solutions.
 
-#### Personal Information We Collect
+#### PERSONAL INFORMATION WE COLLECT
 
 <h3 class="text-left">
 The types of personal information we collect include:
@@ -27,7 +27,7 @@ The types of personal information we collect include:
 
 - names, job titles, contact and address details;
 
-- information in identification documents (for example, passport, driver’s licence);
+- information in identification documents (for example, passport, driver's licence);
 
 - tax file numbers and other government-issued identification numbers;
 
@@ -45,36 +45,35 @@ The types of personal information we collect include:
 
 - payment details; and
 
-- personal information about your spouse and dependants.
+- personal information about your spouse and dependents.
 <br/>
 <br/>
 <p class="text-left">
-It may be necessary in some circumstances for MJO Mortgage Solutions to collect sensitive information about you in order to provide specific services or for recruiting purposes. Examples of the types of sensitive information that may be collected in such circumstances include professional memberships, ethnic origin, criminal record and health information. It is generally not practical to remain anonymous or to use a pseudonym when dealing with MJO Mortgage Solutions as usually we need to use your personal information to provide specific services to you, or which relate to or involve you.
+In some circumstances, MJO Mortgage Solutions may need to collect sensitive information about you to provide specific services or for recruiting purposes. Examples of the types of sensitive information that may be collected in such circumstances include professional memberships, ethnic origin, criminal record and health information. It is generally not practical to remain anonymous or to use a pseudonym when dealing with MJO Mortgage Solutions, as usually, we need to use your personal information to provide specific services to you or that relate to or involve you.
 
-#### How We Collect and Manage Personal Information
+#### HOW WE COLLECT AND MANAGE PERSONAL INFORMATION
 
 <h3 class="text-left">
 How We Collect Personal Information
 </h3>
-
 <p class="text-left">
-Generally we collect your personal information from you directly (for example, when we deal with you in person or over the phone, when you send us correspondence (including via email), when you complete a questionnaire, form or survey, when you subscribe to our publications or when you use our website or our social media). Sometimes it may be necessary for us to collect your personal information from a third party. For example, we may collect your personal information from your employer where they are our client, from your personal representative, or a publicly available record. We may also collect personal information about you from your use of our websites and information you provide to us through contact mailboxes or through the registration process on our websites.
+Generally, we collect your personal information from you directly (for example, when we deal with you in person or over the phone, when you send us correspondence (including via email), when you complete a questionnaire, form or survey, when you subscribe to our publications or when you use our website or our social media). Sometimes it may be necessary for us to collect your personal information from a third party. For example, we may collect your personal information from your employer, where they are our client, from your personal representative, or a publicly available record. We may also collect personal information about you from your use of our websites and information you provide to us through contact mailboxes or through the registration process on our websites.
 
 <h3 class="text-left">
 Where You Provide Us with Personal Information About Someone Else
 </h3>
 
 <p class="text-left">
-If you provide us with someone else’s personal information, you should only do so if you have their authority or consent to provide us with their personal information. You should also take reasonable steps to inform them of the matters set out in this Privacy Policy or any Privacy Collection Statement we give you.
+If you provide us with someone else's personal information, you should only do so if you have their authority or consent to provide us with their personal information. You should also take reasonable steps to inform them of the matters set out in this Privacy Policy or any Privacy Collection Statement we give you.
 
 <h3 class="text-left">
 Holding Personal Information
 </h3>
 
 <p class="text-left">
-MJO Mortgage Solutions holds personal information in hard copy and electronic formats. We take security measures to protect the personal information we hold including physical (for example storage of files in lockable cabinets) and technology (for example, restriction of access, firewalls, the use of encryption, passwords and digital certificates) security measures.
+MJO Mortgage Solutions holds personal information in hard copy and electronic formats. We take security measures to protect the personal information we hold, including physical (for example, storage of files in lockable cabinets) and technology (for example, restriction of access, firewalls, the use of encryption, passwords and digital certificates) security measures.
 
-#### Purpose for Collecting, Holding, Using and Disclosing Personal Information
+#### PURPOSE FOR COLLECTING, HOLDING, USING AND DISCLOSING PERSONAL INFORMATION
 
 <h3 class="text-left">
 MJO Mortgage Solutions collects, holds and uses personal information for a number of purposes including:
@@ -140,7 +139,7 @@ The types of third parties to whom we may disclose your personal information inc
 <p class="text-left">
 We do not disclose personal information to third parties for the purpose of allowing them to send marketing material to you. However, we may share non-personal, de-identified or aggregated information to them for research or promotional purposes.
 
-#### General Data Protection Regulation (GDPR) for the European Union (EU)
+#### GENERAL DATA PROTECTION REGULATION (GDPR) FOR THE EUROPEAN UNION (EU)
 
 <p class="text-left">
 MJO Mortgage Solutions will comply with the principles of data protection set out in the GDPR for the purpose of fairness, transparency and lawful data collection and use.
@@ -155,7 +154,7 @@ We will also process your personal information if it is necessary for our legiti
 <p class="text-left">
 We process your personal information if it is necessary to protect your life or in a medical situation, it is necessary to carry out a public function, a task of public interest or if the function has a clear basis in law.
 <p class="text-left">
-We do not collect or process any personal information from you that is considered "Sensitive Personal Information" under the GDPR, such as personal information relating to your sexual orientation or ethnic origin unless we have obtained your explicit consent, or if it is being collected subject to and in accordance with the GDPR.
+We do not collect or process any personal information from you that is considered "Sensitive Personal Information" under the GDPR, such as personal information relating to your sexual orientation or ethnic origin, unless we have obtained your explicit consent or if it is being collected subject to and in accordance with the GDPR.
 <p class="text-left">
 You must not provide us with your personal information if you are under the age of 16 without the consent of your parent or someone who has parental authority for you. We do not knowingly collect or process the personal information of children.
 <p class="text-left">
@@ -179,27 +178,27 @@ Except as otherwise provided in the GDPR, you have the following rights:
 
 - to object to your personal information being used; and
 
-- to object against automated decision making and profiling.
+- to object against automated decision-making and profiling.
 
-#### Hosting and International Data Transfers
+#### HOSTING AND INTERNATIONAL DATA TRANSFERS
 
 <p class="text-left">
-Information that we collect may from time to time be stored, processed in or transferred between parties or sites located in countries outside of Australia.
+Information that we collect may, from time to time, be stored, processed in or transferred between parties or sites located in countries outside of Australia.
 <p class="text-left">
 We and our other group companies have offices and/or facilities in Australia.
 <p class="text-left">
 Transfers to any other countries will be protected by appropriate safeguards, these include but are not limited to the use of standard data protection clauses adopted or approved by the European Commission which you can obtain from the European Commission Website
 <p class="text-left">
-The hosting facilities for our website are situated in Australia. Transfers to any other countries will be protected by appropriate safeguards, these include, but aren’t limited to the use of standard data protection clauses adopted or approved by the European Commission which you can obtain from the European Commission Website.
+The hosting facilities for our website are situated in Australia. Transfers to any other countries will be protected by appropriate safeguards, these include, but aren't limited to the use of standard data protection clauses adopted or approved by the European Commission which you can obtain from the European Commission Website.
 <p class="text-left">
 Our suppliers and contractors are situated in Australia. Transfers to any other countries will be protected by appropriate safeguards, these include, but are not limited to the use of standard data protection clauses adopted or approved by the European Commission which you can obtain from the European Commission Website.
 <p class="text-left">
 You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.
 
-#### Data Loss Prevention
+#### DATA LOSS PREVENTION
 
 <p class="text-left">
-MJO Mortgage Solutions utilises Data Loss Prevention policies. A data loss prevention policy defines how organisations can share and protect data. It guides how data can be used in decision making without it being exposed to anyone who should not have access to it.
+MJO Mortgage Solutions utilises Data Loss Prevention policies. A data loss prevention policy defines how organisations can share and protect data. It guides how data can be used in decision-making without it being exposed to anyone who should not have access to it.
 
 <h3 class="text-left">
 Data loss prevention is broadly defined as technology or processes that:
@@ -209,16 +208,16 @@ Data loss prevention is broadly defined as technology or processes that:
 
 - Tracks data usage.
 
-- Prevents unauthorized access to data.
+- Prevents unauthorised access to data.
 <br/>
 <br/>
 <p class="text-left">
 Data loss prevention tools include software products that can classify and protect data. The data loss prevention policy guides how those tools work.
 
-#### Why We Use A Data Loss Prevention Policy
+#### WHY WE USE A DATA LOSS PREVENTION POLICY
 
 <p class="text-left">
-Much of data security involves preventing malicious attacks on an organisation’s networks. Employees have more ways to access and share organizational data than in the past due to the distributed nature of modern computing making accidental data loss a serious problem.
+Much of data security involves preventing malicious attacks on an organisation's networks. Employees have more ways to access and share organisational data than in the past due to the distributed nature of modern computing, making accidental data loss a serious problem.
 <p class="text-left">
 Data storage is available in the cloud and remote locations. As the number of employees working from remote locations continues to increase, so too does frequency of access to sensitive data from laptops and mobile devices that may be vulnerable.
 
@@ -230,9 +229,9 @@ Data collection and use are coming under increased regulatory scrutiny. There ar
 
 - Intellectual property: Proprietary information and trade secrets are the types of information that needs to be protected from unauthorised access.
 
-- Data visibility: Organizations can gain valuable insights by monitoring how stakeholders’ access and interact with data.
+- Data visibility: Organisations can gain valuable insights by monitoring how stakeholders' access and interact with data.
 
-#### Our Practices for Establishing A Data Loss Prevention Policy
+#### OUR PRACTICES FOR ESTABLISHING A DATA LOSS PREVENTION POLICY
 
 <p class="text-left">
 Data loss prevention policies help us prevent unauthorised data access and protect us from the potential damage.
@@ -241,7 +240,7 @@ Data loss prevention policies help us prevent unauthorised data access and prote
 While no protection will be bulletproof, we use the following practices that can help us implement successful data protection policies:
 </h3>
 
-- Identify the data that the policy is primarily meant to protect. Most often data is classified according to its vulnerability and risk factors. Taking the time to understand data and classify it can lead to greater insights for us.
+- Identify the data that the policy is primarily meant to protect. Most often, data is classified according to its vulnerability and risk factors. Taking the time to understand data and classify it can lead to greater insights for us.
 
 - Establish criteria for evaluating data loss prevention vendors. Creating an evaluation framework with the right questions can help lead to an educated purchasing decision.
 
@@ -263,7 +262,7 @@ While no protection will be bulletproof, we use the following practices that can
 
 - Monitor data usage before blocking it. Set up data loss prevention tools to report sensitive data loss first.
 
-#### Using Data Loss Prevention Policy Templates
+#### USING DATA LOSS PREVENTION POLICY TEMPLATES
 
 <p class="text-left">
 We craft our data loss prevention policies based on our unique security environment and communicate it across the company.
@@ -280,7 +279,7 @@ Our data loss prevention policy contains three elements:
 
 - Action: If a situation meets the set conditions, an action is taken to prevent loss.
 
-#### Direct Marketing
+#### DIRECT MARKETING
 
 <p class="text-left">
 MJO Mortgage Solutions may also use your personal information for the purpose of marketing its services.
@@ -291,55 +290,55 @@ If you do not want to receive marketing material from us, you can contact us as 
 
 - for electronic communications, you can click on the unsubscribe function in the communication (if available); or
 
-- for hard copy communications, you can email info@mjosolutions.com.au; or
+- for hard-copy communications, you can email INFO@MJOSOLUTIONS.COM.AU; or
 
 - through our contact details below.
 
-#### Privacy on Our Websites
+#### PRIVACY ON OUR WEBSITES
 
 <h3 class="text-left">
 Cookies and Web Beacons
 </h3>
 
 <p class="text-left">
-Cookies and web beacons are used on the MJO Mortgage Solutions website, primarily used to enhance your online experience and to make our sites more useful and attractive to you. Cookies are small text files placed on your computer when you first visit the site. Most browsers now recognise when a cookie is offered and permit you to refuse or accept it. If you are not sure whether your browser has this capability, you should check with the software manufacturer, your company’s technology help desk or your internet service provider. A web beacon is a clear picture file that is placed on a website or in an email that is used to monitor the behaviour of a user visiting the website or sending an email. When the HTML code for the web beacon points to a site to retrieve the image, at the same time it can pass along information such as an IP address of the computer that retrieved the image, the time the web beacon was viewed and for how long, the type of browser that retrieved the image and previously set cookie values
+Cookies and web beacons are used on the MJO Mortgage Solutions website, primarily used to enhance your online experience and to make our sites more useful and attractive to you. Cookies are small text files placed on your computer when you first visit the site. Most browsers now recognise when a cookie is offered and permit you to refuse or accept it. If you are not sure whether your browser has this capability, you should check with the software manufacturer, your company's technology help desk or your internet service provider. A web beacon is a clear picture file that is placed on a website or in an email that is used to monitor the behaviour of a user visiting the website or sending an email. When the HTML code for the web beacon points to a site to retrieve the image, at the same time it can pass along information such as an IP address of the computer that retrieved the image, the time the web beacon was viewed and for how long, the type of browser that retrieved the image and previously set cookie values
 
 <h3 class="text-left">
 Your Choices
 </h3>
 
 <p class="text-left">
-You have several choices regarding your use of MJO Mortgage Solutions’s website(s). In general, you are not required to provide personal information when you visit our websites. However, if you apply to receive information about our services, events and industry updates or wish to apply for a job, provision of certain personal information will generally be required.
+You have several choices regarding your use of MJO Mortgage Solutions' website(s). In general, you are not required to provide personal information when you visit our websites. However, if you apply to receive information about our services, events and industry updates or wish to apply for a job, provision of certain personal information will generally be required.
 
-#### Links to Third-Party Websites
-
-<p class="text-left">
-MJO Mortgage Solutions’s website(s) may contain links to third parties’ websites. Those other websites are not subject to our privacy policy and procedures. You will need to review those websites to view a copy of their privacy policy. MJO Mortgage Solutions also does not endorse, approve or recommend the services or products provided on third party websites.
-
-#### Children
+#### LINKS TO THIRD-PARTY WEBSITES
 
 <p class="text-left">
-We understand the importance of protecting children’s privacy, especially in an online environment. In particular, our websites are not intentionally designed for or directed at children under the age of 13. It is our policy to never knowingly collect or maintain information about anyone under the age of 13, except as part of a specific engagement to provide professional services which necessitates such personal information be collected or for the purposes of ensuring compliance with our auditor independence policies.
+MJO Mortgage Solutions' website(s) may contain links to third parties' websites. Those other websites are not subject to our privacy policy and procedures. You will need to review those websites to view a copy of their privacy policy. MJO Mortgage Solutions also does not endorse, approve or recommend the services or products provided on third-party websites.
 
-#### Gaining Access to Personal Information We Hold
-
-<p class="text-left">
-You can request access to your personal information, subject to some limited exceptions permitted or required by law. Such request must be made in writing to account. Please see the ‘How to contact us’ section for details. MJO Mortgage Solutions may charge reasonable costs for providing you access to your personal information.
-
-#### Keeping Personal Information Current
+#### CHILDREN
 
 <p class="text-left">
-If you believe that any personal information MJO Mortgage Solutions has collected about you is inaccurate, not up-to-date, incomplete, irrelevant or misleading, you may request correction. To do so, please contact info@mjosolutions.com.au and we will take reasonable steps to correct it in accordance with the requirements of the Privacy Act. Please see the ‘Contact us’ section for details as to how to contact us.
+We understand the importance of protecting children's privacy, especially in an online environment. In particular, our websites are not intentionally designed for or directed at children under the age of 13. It is our policy to never knowingly collect or maintain information about anyone under the age of 13 except as part of a specific engagement to provide professional services which necessitates such personal information be collected or for the purposes of ensuring compliance with our auditor independence policies.
 
-#### Complaints
-
-<p class="text-left">
-If you wish to make a complaint to MJO Mortgage Solutions about our handling of your personal information, you can contact info@mjosolutions.com.au as set out in the ‘Contact us’ section. You will be asked to set out the details of your complaint in writing in a form provided. MJO Mortgage Solutions will endeavour to reply to you within 30 days of receipt of the completed complaint form and, where appropriate, will advise you of the general reasons for the outcome of the complaint. In some circumstances, we may decline to investigate the complaint, for example if the complaint relates to an act or practice that is not an interference of the privacy of the person making the complaint. If you are not satisfied with the outcome of your complaint, you can refer your complaint to the Office of the Australian Information Commissioner.
-
-#### Contact Us
+#### GAINING ACCESS TO PERSONAL INFORMATION WE HOLD
 
 <p class="text-left">
-If you have a query in relation to this Privacy Policy or to exercise your rights under the GDPR at the contact details in this Privacy Policy, please contact us. If you would like to notify MJO Mortgage Solutions that you no longer wish to receive marketing material from us, access or correct your personal information or to make a complaint about MJO Mortgage Solutions handling of your personal information, please contact us as follows:
+You can request access to your personal information, subject to some limited exceptions permitted or required by law. Such request must be made in writing to account. Please see the 'How to contact us' section for details. MJO Mortgage Solutions may charge reasonable costs for providing you access to your personal information.
+
+#### KEEPING PERSONAL INFORMATION CURRENT
+
+<p class="text-left">
+If you believe that any personal information MJO Mortgage Solutions has collected about you is inaccurate, not up-to-date, incomplete, irrelevant or misleading, you may request a correction. To do so, please contact info@mjosolutions.com.au and we will take reasonable steps to correct it in accordance with the requirements of the Privacy Act. Please see the 'Contact us' section for details as to how to contact us.
+
+#### COMPLAINTS
+
+<p class="text-left">
+If you wish to make a complaint to MJO Mortgage Solutions about our handling of your personal information, you can contact info@mjosolutions.com.au as set out in the 'Contact us' section. You will be asked to set out the details of your complaint in writing in a form provided. MJO Mortgage Solutions will endeavour to reply to you within 30 days of receipt of the completed complaint form and, where appropriate, will advise you of the general reasons for the outcome of the complaint. In some circumstances, we may decline to investigate the complaint, for example if the complaint relates to an act or practice that is not an interference of the privacy of the person making the complaint. If you are not satisfied with the outcome of your complaint, you can refer your complaint to the Office of the Australian Information Commissioner.
+
+#### CONTACT US
+
+<p class="text-left">
+If you have a query in relation to this Privacy Policy or to exercise your rights under the GDPR at the contact details in this Privacy Policy, please contact us. If you would like to notify MJO Mortgage Solutions that you no longer wish to receive marketing material from us, access or correct your personal information or to make a complaint about MJO Mortgage Solutions' handling of your personal information, please contact us as follows:
 
 #### MJO Mortgage Solutions
 
