@@ -321,12 +321,12 @@ You can request access to your personal information, subject to some limited exc
 #### Keeping Personal Information Current
 
 <p class="text-left">
-If you believe that any personal information MJO Mortgage Solutions has collected about you is inaccurate, not up-to-date, incomplete, irrelevant or misleading, you may request correction. To do so, please contact info@generaltechnical.com.au and we will take reasonable steps to correct it in accordance with the requirements of the Privacy Act. Please see the ‘Contact us’ section for details as to how to contact us.
+If you believe that any personal information MJO Mortgage Solutions has collected about you is inaccurate, not up-to-date, incomplete, irrelevant or misleading, you may request correction. To do so, please contact info@mjosolutions.com.au and we will take reasonable steps to correct it in accordance with the requirements of the Privacy Act. Please see the ‘Contact us’ section for details as to how to contact us.
 
 #### Complaints
 
 <p class="text-left">
-If you wish to make a complaint to MJO Mortgage Solutions about our handling of your personal information, you can contact info@generaltechnical.com.au as set out in the ‘Contact us’ section. You will be asked to set out the details of your complaint in writing in a form provided. MJO Mortgage Solutions will endeavour to reply to you within 30 days of receipt of the completed complaint form and, where appropriate, will advise you of the general reasons for the outcome of the complaint. In some circumstances, we may decline to investigate the complaint, for example if the complaint relates to an act or practice that is not an interference of the privacy of the person making the complaint. If you are not satisfied with the outcome of your complaint, you can refer your complaint to the Office of the Australian Information Commissioner.
+If you wish to make a complaint to MJO Mortgage Solutions about our handling of your personal information, you can contact info@mjosolutions.com.au as set out in the ‘Contact us’ section. You will be asked to set out the details of your complaint in writing in a form provided. MJO Mortgage Solutions will endeavour to reply to you within 30 days of receipt of the completed complaint form and, where appropriate, will advise you of the general reasons for the outcome of the complaint. In some circumstances, we may decline to investigate the complaint, for example if the complaint relates to an act or practice that is not an interference of the privacy of the person making the complaint. If you are not satisfied with the outcome of your complaint, you can refer your complaint to the Office of the Australian Information Commissioner.
 
 #### Contact Us
 
