@@ -25,6 +25,9 @@
   p {
     @apply font-light text-lg text-center sm:text-left tracking-wide leading-snug sm:leading-normal mb-3;
   }
+  p a {
+    @apply normal-case text-lg;
+  }
   a {
     @apply text-sm text-white uppercase tracking-widest;
   }
@@ -40,14 +43,17 @@
   h2 {
     @apply font-display text-xl sm:text-2xl font-bold text-center uppercase leading-tight sm:leading-7 text-background mb-4 tracking-wide;
   }
+  h2 a {
+    @apply pointer-events-none;
+  }
   h3 {
     @apply font-display font-medium text-lg sm:text-2xl text-center sm:text-left uppercase leading-snug sm:leading-8 text-background mb-auto;
   }
   h4 {
-    @apply mb-2 text-xl text-primary text-left font-bold uppercase w-full mt-5 tracking-wider;
+    @apply mb-2 text-xl text-primary text-center sm:text-left font-bold uppercase w-full mt-5 tracking-wider;
   }
   h4 a {
-    @apply pointer-events-none text-xl text-primary text-center font-bold uppercase w-full;
+    @apply pointer-events-none text-xl text-primary font-bold uppercase w-full;
   }
   h5 {
     @apply text-center mb-2 tracking-wide;

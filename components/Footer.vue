@@ -104,6 +104,11 @@
         <div
           class="flex flex-col md:flex-row md:gap-2 items-center h-full justify-center pt-4 col-span-2"
         >
+          <NuxtLink to="/privacy">
+            <p class="text-xs text-primary md:border-r-2 pr-2 font-bold">
+              Privacy Policy
+            </p>
+          </NuxtLink>
           <p class="text-xs text-primary md:border-r-2 pr-2">
             <span class="font-bold">ABN: </span>
             61 921 877 088
