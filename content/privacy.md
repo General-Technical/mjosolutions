@@ -3,8 +3,14 @@ title: MJO Mortgage Solutions
 header: Privacy Policy
 ---
 
+<h3 class="text-left">
+MJO Mortgage Solutions
+</h3>
 <p class="text-left">
-Privacy Policy – MJO Mortgage Solutions 21640488384
+61 921 877 088
+
+<br/>
+<br/>
 
 #### Introduction
 
@@ -277,7 +283,7 @@ If you do not want to receive marketing material from us, you can contact us as 
 
 - for electronic communications, you can click on the unsubscribe function in the communication (if available); or
 
-- for hard copy communications, you can email info@generaltechnical.com.au; or
+- for hard copy communications, you can email info@mjosolutions.com.au; or
 
 - through our contact details below.
 
@@ -334,7 +340,7 @@ A: Brooks St, Cooks Hill NSW 2300, Australia
 <p class="text-left mb-0">
 T: +61 498 807 096
 <p class="text-left">
-E: matt@mjosolutions.com.au
+E: info@mjosolutions.com.au
 
 <h3 class="text-left">
 Note: We may ask you to verify your identity before acting on any of your requests.
