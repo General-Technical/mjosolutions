@@ -47,10 +47,10 @@
     @apply pointer-events-none;
   }
   h3 {
-    @apply font-display font-medium text-lg sm:text-2xl text-center sm:text-left uppercase leading-snug sm:leading-8 text-background mb-auto;
+    @apply font-display font-medium text-lg sm:text-2xl text-center sm:text-left uppercase sm:leading-8 text-background mb-auto;
   }
   h3 a {
-    @apply pointer-events-none uppercase text-base text-left;
+    @apply pointer-events-none uppercase text-sm sm:text-base text-left leading-none;
   }
   h4 {
     @apply mb-2 text-xl text-primary text-left font-bold uppercase w-full mt-5 tracking-wider;
