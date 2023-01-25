@@ -118,7 +118,7 @@
             541 627
           </p>
           <p class="font-bold text-xs text-primary">
-            &copy; <span class="font-bold">2022</span>
+            &copy; <span class="font-bold">2023</span>
           </p>
           <div class="flex my-auto">
             <p class="font-light text-xs uppercase">
