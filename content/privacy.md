@@ -290,7 +290,7 @@ If you do not want to receive marketing material from us, you can contact us as 
 
 - for electronic communications, you can click on the unsubscribe function in the communication (if available); or
 
-- for hard-copy communications, you can email INFO@MJOSOLUTIONS.COM.AU; or
+- for hard-copy communications, you can email <span class="pointer-events-none">info@mjosolutions.com.au;</span> or
 
 - through our contact details below.
 

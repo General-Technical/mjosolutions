@@ -29,7 +29,7 @@
     @apply normal-case text-lg;
   }
   a {
-    @apply text-sm text-white uppercase tracking-widest;
+    @apply text-lg text-white;
   }
   a:hover {
     @apply text-primary trans;
@@ -71,7 +71,7 @@
 
 @layer components {
   .nav-item {
-    @apply font-medium text-2xl md:text-base m-0 p-0 leading-none trans;
+    @apply font-medium text-2xl md:text-base m-0 p-0 leading-none trans uppercase tracking-widest;
   }
   .call-button {
     @apply text-xl md:text-base text-background bg-primary hover:bg-background rounded-full px-3 py-1;
