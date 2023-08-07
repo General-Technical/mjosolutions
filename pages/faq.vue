@@ -1,8 +1,8 @@
 <template>
   <NuxtLayout>
-    <section id="faq" class="min-h-screen py-24 sm:py-36">
+    <section id="faq" class="py-24 min-h-screen sm:py-36">
       <FadeUp class="container">
-        <h1 class="text-left mb-6">FAQ</h1>
+        <h1 class="mb-6 text-left">FAQ</h1>
         <div class="grid grid-cols-1 md:grid-cols-2 md:gap-8">
           <div>
             <h4>What is a mortgage broker?</h4>
@@ -86,13 +86,13 @@
             </p>
           </div>
         </div>
-        <!-- <ContentDoc path="/faq" v-slot="{ doc }">
-          <h1 class="text-left mb-6">{{ doc.header }}</h1>
-          <div class="columns-1 md:columns-2 gap-6">
-            <ContentRenderer :value="doc" class="text-left" />
-          </div>
-        </ContentDoc> -->
       </FadeUp>
     </section>
   </NuxtLayout>
 </template>
+
+<script setup>
+useHead({
+  title: "MJO- FAQ",
+});
+</script>

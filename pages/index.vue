@@ -4,12 +4,12 @@
     <FadeUp>
       <section id="intro" class="intro h-[calc(100vh-150px)]">
         <div
-          class="container items-start pt-12 grid grid-cols-1 sm:grid-cols-2"
+          class="container grid grid-cols-1 items-start pt-12 sm:grid-cols-2"
         >
           <ContentDoc path="/intro" v-slot="{ doc }" />
           <img
             src="/icons/broker-works-2.svg"
-            class="icon px-12 lg:px-24 row-start-1 col-start-1 sm:col-start-2 mb-8 sm:mb-0"
+            class="col-start-1 row-start-1 px-12 mb-8 icon lg:px-24 sm:col-start-2 sm:mb-0"
           />
         </div>
       </section>
@@ -23,8 +23,8 @@
       </section>
     </FadeUp>
     <!-- What -->
-    <section class="pb-16 sm:pb-24 bg-white">
-      <FadeUp class="container grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-8">
+    <section class="pb-16 bg-white sm:pb-24">
+      <FadeUp class="container grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-8">
         <ContentDoc path="/what" v-slot="{ doc }">
           <h1 class="mb-auto">{{ doc.header }}</h1>
           <h3>{{ doc.subhead }}</h3>
@@ -38,10 +38,10 @@
     <!-- Commitment Cards -->
     <section id="commitment" class="bg-white">
       <FadeUp
-        class="container card-grid-mjo grid-cols-1 sm:grid-cols-3 z-20 pb-16 sm:pb-24"
+        class="container z-20 grid-cols-1 pb-16 card-grid-mjo sm:grid-cols-3 sm:pb-24"
       >
         <!-- Card -->
-        <div class="card pt-0">
+        <div class="pt-0 card">
           <ContentDoc path="/comcards/commit" v-slot="{ doc }">
             <img src="/icons/our-commitment.svg" class="icon" />
             <h2>{{ doc.header }}</h2>
@@ -49,7 +49,7 @@
           </ContentDoc>
         </div>
         <!-- Card -->
-        <div class="card pt-0">
+        <div class="pt-0 card">
           <ContentDoc path="/comcards/why" v-slot="{ doc }">
             <img src="/icons/broker-free.svg" class="icon" />
             <h2>{{ doc.header }}</h2>
@@ -57,7 +57,7 @@
           </ContentDoc>
         </div>
         <!-- Card -->
-        <div class="card pt-0">
+        <div class="pt-0 card">
           <ContentDoc path="/comcards/where" v-slot="{ doc }">
             <img src="/icons/where.svg" class="icon" />
             <h2>{{ doc.header }}</h2>
@@ -68,14 +68,14 @@
     </section>
     <!-- Contact -->
     <ContentDoc path="/contact" v-slot="{ doc }">
-      <section id="contact" class="pb-24 relative bg-background">
+      <section id="contact" class="relative pb-24 bg-background">
         <div
           bgImage
           :style="{ backgroundImage: 'url(' + doc.image + ')' }"
-          class="bg-cover h-full w-screen absolute -top-80 z-0 border-primary"
+          class="absolute -top-80 z-0 w-screen h-full bg-cover border-primary"
         />
         <div class="container">
-          <FadeUp class="card h-fit bg-background bg-opacity-80 pt-10">
+          <FadeUp class="pt-10 bg-opacity-80 card h-fit bg-background">
             <h1>
               {{ doc.header }}
             </h1>
@@ -83,7 +83,7 @@
             <iframe
               src="https://www.cognitoforms.com/f/6Ax0zmUI6UeB6_7JUBHcjA/18"
               style="border: 0; width: 100%"
-              class="flex justify-center w-full mx-auto h-196"
+              class="flex justify-center mx-auto w-full h-196"
             >
             </iframe>
           </FadeUp>
@@ -92,3 +92,9 @@
     </ContentDoc>
   </NuxtLayout>
 </template>
+
+<script setup>
+useHead({
+  title: "MJO Mortgage Solutions",
+});
+</script>
