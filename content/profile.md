@@ -1,7 +1,7 @@
 ---
 title: MJO Mortgage Solutions
 header: Your Broker
-image: /images/profile/Profille-RR-491.jpeg
+image: /images/profile/Profile-RR-491.jpeg
 ---
 
 Navigating the world of property can be both exciting and overwhelming. As a seasoned property investor, Matt understands that purchasing a property is one of the most significant financial and personal decisions you can make. Matt is here to guide you every step of the way with personalised advice tailored to your unique situation, ensuring a smooth and professional transaction.
