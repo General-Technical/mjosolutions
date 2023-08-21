@@ -8,25 +8,25 @@
 
 @layer base {
   html {
-    @apply w-screen min-w-full overflow-x-hidden bg-background font-body text-white;
+    @apply w-screen min-w-full overflow-x-hidden text-white bg-background font-body;
   }
   header {
-    @apply w-screen min-w-full fixed top-0 z-30;
+    @apply fixed top-0 z-30 w-screen min-w-full;
   }
   footer {
-    @apply text-center z-50;
+    @apply z-50 text-center;
   }
   nav {
-    @apply max-w-6xl flex items-center py-3 border border-t-0 border-primary px-3 sm:px-6 rounded-mjo rounded-t-none bg-background bg-opacity-80;
+    @apply flex items-center max-w-6xl px-3 py-3 border border-t-0 rounded-t-none border-primary sm:px-6 rounded-mjo bg-background bg-opacity-80;
   }
   section {
-    @apply w-screen flex justify-end items-end;
+    @apply flex items-end justify-end w-screen;
   }
   p {
-    @apply font-light text-lg text-center sm:text-left tracking-wide leading-snug sm:leading-normal mb-3;
+    @apply mb-3 text-lg font-light leading-snug tracking-wide text-center sm:text-left sm:leading-normal;
   }
   p a {
-    @apply normal-case text-lg;
+    @apply text-lg normal-case;
   }
   a {
     @apply text-lg text-white;
@@ -41,71 +41,71 @@
     @apply font-display text-3xl sm:text-6xl font-bold uppercase text-center sm:text-left leading-tight sm:leading-[60px] text-secondary mb-2;
   }
   h2 {
-    @apply font-display text-xl sm:text-2xl font-bold text-center uppercase leading-tight sm:leading-7 text-background mb-4 tracking-wide;
+    @apply mb-4 text-xl font-bold leading-tight tracking-wide text-center uppercase font-display sm:text-2xl sm:leading-7 text-background;
   }
   h2 a {
     @apply pointer-events-none;
   }
   h3 {
-    @apply font-display font-medium text-lg sm:text-2xl text-center sm:text-left uppercase sm:leading-8 text-background mb-auto;
+    @apply mb-auto text-lg font-medium text-center uppercase font-display sm:text-2xl sm:text-left sm:leading-8 text-background;
   }
   h3 a {
-    @apply pointer-events-none uppercase text-sm sm:text-base text-left leading-none;
+    @apply text-sm leading-none text-left uppercase pointer-events-none sm:text-base;
   }
   h4 {
-    @apply mb-2 text-xl text-primary text-left font-bold uppercase w-full mt-5 tracking-wider;
+    @apply w-full mt-5 mb-2 text-xl font-bold tracking-wider text-left uppercase text-primary;
   }
   h4 a {
-    @apply pointer-events-none text-xl text-primary font-bold uppercase w-full;
+    @apply w-full text-xl font-bold uppercase pointer-events-none text-primary;
   }
   h5 {
-    @apply text-center mb-2 tracking-wide;
+    @apply mb-2 tracking-wide text-center;
   }
   h6 {
-    @apply text-left font-light mb-2 tracking-wide;
+    @apply mb-2 font-light tracking-wide text-left;
   }
   li {
-    @apply list-disc list-outside ml-5 text-lg font-light;
+    @apply ml-5 text-lg font-light list-disc list-outside;
   }
 }
 
 @layer components {
   .nav-item {
-    @apply font-medium text-2xl md:text-base m-0 p-0 leading-none trans uppercase tracking-widest;
+    @apply p-0 m-0 text-2xl font-medium leading-none tracking-widest uppercase lg:text-base trans;
   }
   .call-button {
-    @apply text-xl md:text-base text-background bg-primary hover:bg-background rounded-full px-3 py-1;
+    @apply px-3 py-1 text-xl rounded-full md:text-base text-background bg-primary hover:bg-background;
   }
   .rounded-mjo {
     @apply rounded-xl;
   }
   .container {
-    @apply max-w-6xl px-6 mx-auto m-auto items-center;
+    @apply items-center max-w-6xl px-6 m-auto mx-auto;
   }
   .card-grid-mjo {
-    @apply grid grid-cols-2 md:grid-cols-3 gap-3;
+    @apply grid grid-cols-2 gap-3 md:grid-cols-3;
   }
   .card {
-    @apply h-full rounded-mjo bg-primary border border-primary p-6 w-full bg-opacity-80 backdrop-blur drop-shadow-xl;
+    @apply w-full h-full p-6 border rounded-mjo bg-primary border-primary bg-opacity-80 backdrop-blur drop-shadow-xl;
   }
   .icon-sm {
-    @apply h-24 mt-4 mb-6 w-full;
+    @apply w-full h-24 mt-4 mb-6;
   }
   .trans {
     @apply transition duration-300 ease-in-out;
   }
   /* Intro */
   .intro {
-    @apply bg-background  flex;
+    @apply flex bg-background;
   }
   .intro .container {
-    @apply grid grid-cols-1 sm:grid-cols-2 gap-0 sm:gap-24;
+    @apply grid grid-cols-1 gap-0 sm:grid-cols-2 sm:gap-24;
   }
   .intro-icon {
     @apply mx-auto mt-12 md:mt-0 w-36 sm:w-48 md:w-60 lg:w-72 xl:w-80;
   }
   .sosmed {
-    @apply fill-white hover:fill-primary w-10 h-10 trans;
+    @apply w-10 h-10 fill-white hover:fill-primary trans;
   }
 }
 

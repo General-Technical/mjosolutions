@@ -7,14 +7,14 @@
           <img
             src="/images/mjo-logo.png"
             alt="MJO Mortgage Solutions"
-            class="h-10 sm:h-12 w-auto pb-3"
+            class="w-auto h-10 pb-3 sm:h-12"
           />
         </NuxtLink>
-        <NavBar class="hidden md:flex flex-1 justify-end" />
-        <div class="flex flex-1 justify-end md:hidden">
+        <NavBar class="justify-end flex-1 hidden lg:flex" />
+        <div class="flex justify-end flex-1 lg:hidden">
           <button title="Menu" @click="mobileMenuOpen = true">
             <svg
-              class="w-9 h-10 text-primary hover:text-hover"
+              class="h-10 w-9 text-primary hover:text-hover"
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
               viewBox="0 0 24 24"

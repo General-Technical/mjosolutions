@@ -1,15 +1,18 @@
 <template>
-  <ul class="flex gap-6 text-center flex-col md:flex-row">
-    <li class="list-none ml-0">
+  <ul class="flex flex-col gap-6 text-center lg:flex-row">
+    <li class="ml-0 list-none">
       <NuxtLink to="/" class="nav-item">Home</NuxtLink>
     </li>
-    <li class="list-none ml-0">
+    <li class="ml-0 list-none">
+      <NuxtLink to="/your-broker" class="nav-item">Your Broker</NuxtLink>
+    </li>
+    <li class="ml-0 list-none">
       <NuxtLink to="/lenders" class="nav-item">Lenders</NuxtLink>
     </li>
-    <li class="list-none ml-0">
+    <li class="ml-0 list-none">
       <NuxtLink to="/faq" class="nav-item">FAQ</NuxtLink>
     </li>
-    <li class="list-none ml-0">
+    <li class="ml-0 list-none">
       <a href="/#contact" class="nav-item call-button">Contact</a>
     </li>
   </ul>
