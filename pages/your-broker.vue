@@ -2,12 +2,14 @@
   <NuxtLayout>
     <ContentDoc path="/profile" v-slot="{ doc }">
       <section
-        class="py-24 min-h-[calc(100vh-150px)] sm:py-36 bg-top bg-cover mb-12"
+        class="py-24 min-h-[calc(100vh-150px)] sm:py-36 bg-top bg-cover mb-12 !pt-20"
         :style="{ backgroundImage: 'url(' + doc.bgImage + ')' }"
       >
         <FadeUp class="container">
-          <div class="flex flex-col w-full p-6">
-            <h1 class="pb-2 text-center text-primary card bg-background/80">
+          <div class="flex flex-col w-full">
+            <h1
+              class="pb-4 text-center md:pb-3 text-primary card bg-background/80"
+            >
               {{ doc.header }}
             </h1>
             <div class="flex flex-col gap-6 md:flex-row card bg-background/80">
