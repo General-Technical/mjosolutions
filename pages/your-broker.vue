@@ -2,7 +2,7 @@
   <NuxtLayout>
     <ContentDoc path="/profile" v-slot="{ doc }">
       <section
-        class="py-24 min-h-[calc(100vh-150px)] sm:py-36 bg-top bg-cover mb-12 !pt-20"
+        class="py-24 min-h-screen sm:py-36 bg-top bg-cover mb-12 !pt-20"
         :style="{ backgroundImage: 'url(' + doc.bgImage + ')' }"
       >
         <FadeUp class="container">
