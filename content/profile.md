@@ -1,7 +1,7 @@
 ---
 title: MJO Mortgage Solutions
 header: Your Broker
-image: /images/profile/mjo_headshot_transparent.svg
+image: /images/profile/mjo_headshot_transparent.png
 bgImage: /images/chelsea-pridham-mmlwibdnkvu-unsplash.jpg
 ---
 
