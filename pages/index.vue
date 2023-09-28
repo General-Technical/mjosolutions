@@ -23,7 +23,7 @@
       </section>
     </FadeUp>
     <!-- What -->
-    <section class="pb-16 bg-white sm:pb-24">
+    <section class="bg-white sm:pb-24">
       <FadeUp class="container grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-8">
         <ContentDoc path="/what" v-slot="{ doc }">
           <h1 class="mb-auto">{{ doc.header }}</h1>
@@ -36,44 +36,41 @@
       </FadeUp>
     </section>
     <!-- Commitment Cards -->
-    <section id="commitment" class="bg-white">
-      <FadeUp
-        class="container z-20 grid-cols-1 pb-16 card-grid-mjo sm:grid-cols-3 sm:pb-24"
-      >
-        <!-- Card -->
-        <div class="pt-0 card">
-          <ContentDoc path="/comcards/commit" v-slot="{ doc }">
-            <img src="/icons/our-commitment.svg" class="icon" />
-            <h2>{{ doc.header }}</h2>
-            <ContentRenderer :value="doc" />
-          </ContentDoc>
-        </div>
-        <!-- Card -->
-        <div class="pt-0 card">
-          <ContentDoc path="/comcards/why" v-slot="{ doc }">
-            <img src="/icons/broker-free.svg" class="icon" />
-            <h2>{{ doc.header }}</h2>
-            <ContentRenderer :value="doc" />
-          </ContentDoc>
-        </div>
-        <!-- Card -->
-        <div class="pt-0 card">
-          <ContentDoc path="/comcards/where" v-slot="{ doc }">
-            <img src="/icons/where.svg" class="icon" />
-            <h2>{{ doc.header }}</h2>
-            <ContentRenderer :value="doc" />
-          </ContentDoc>
-        </div>
-      </FadeUp>
-    </section>
-    <!-- Contact -->
     <ContentDoc path="/contact" v-slot="{ doc }">
-      <section id="contact" class="relative pb-24 bg-background">
-        <div
-          bgImage
-          :style="{ backgroundImage: 'url(' + doc.image + ')' }"
-          class="absolute z-0 w-screen bg-cover -top-12 border-primary"
-        />
+      <section
+        id="commitment"
+        bgImage
+        :style="{ backgroundImage: 'url(' + doc.image + ')' }"
+        class="z-0 w-screen pt-16 bg-cover"
+      >
+        <FadeUp
+          class="container z-20 grid-cols-1 pb-16 card-grid-mjo sm:grid-cols-3 sm:pb-24"
+        >
+          <!-- Card -->
+          <div class="pt-0 card">
+            <ContentDoc path="/comcards/commit" v-slot="{ doc }">
+              <img src="/icons/our-commitment.svg" class="icon" />
+              <h2>{{ doc.header }}</h2>
+              <ContentRenderer :value="doc" />
+            </ContentDoc>
+          </div>
+          <!-- Card -->
+          <div class="pt-0 card">
+            <ContentDoc path="/comcards/why" v-slot="{ doc }">
+              <img src="/icons/broker-free.svg" class="icon" />
+              <h2>{{ doc.header }}</h2>
+              <ContentRenderer :value="doc" />
+            </ContentDoc>
+          </div>
+          <!-- Card -->
+          <div class="pt-0 card">
+            <ContentDoc path="/comcards/where" v-slot="{ doc }">
+              <img src="/icons/where.svg" class="icon" />
+              <h2>{{ doc.header }}</h2>
+              <ContentRenderer :value="doc" />
+            </ContentDoc>
+          </div>
+        </FadeUp>
       </section>
     </ContentDoc>
   </NuxtLayout>
