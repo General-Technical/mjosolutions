@@ -1,7 +1,7 @@
 <template>
   <NuxtLayout>
     <ContentDoc path="/contact" v-slot="{ doc }">
-      <section id="contact" class="relative min-h-screen py-24 bg-background">
+      <section id="contact" class="relative min-h-screen py-20 bg-background">
         <div
           bgImage
           :style="{ backgroundImage: 'url(' + doc.image + ')' }"
