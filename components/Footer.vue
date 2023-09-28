@@ -1,38 +1,39 @@
 <template>
   <div class="w-screen bg-background">
     <footer class="container">
+      <a href="/contact" class="nav-item call-button">Contact</a>
       <div
-        class="grid grid-cols-1 md:grid-cols-2 pb-2 bg-background rounded-b-none border-b-0"
+        class="grid grid-cols-1 pb-2 mt-12 border-b-0 rounded-b-none md:grid-cols-2 bg-background"
       >
         <div class="col-span-2 md:col-span-1">
-          <h5 class="uppercase text-primary font-bold mb-4">Membership</h5>
+          <h5 class="mb-4 font-bold uppercase text-primary">Membership</h5>
           <div class="flex items-center justify-evenly">
             <a href="https://www.fbaa.com.au/" target="_blank">
               <img
                 src="/images/membership/FBAA.png"
                 alt="FBAA"
-                class="h-4 md:h-6 lg:h-8 w-auto ml-auto mb-4"
+                class="w-auto h-4 mb-4 ml-auto md:h-6 lg:h-8"
               />
             </a>
             <a href="https://www.afgonline.com.au/" target="_blank">
               <img
                 src="/images/membership/afg_2021_rgb_reversed_sm.png"
                 alt="AFG"
-                class="h-3 md:h-4 lg:h-6 w-auto mx-auto mb-4"
+                class="w-auto h-3 mx-auto mb-4 md:h-4 lg:h-6"
               />
             </a>
             <a href="https://www.afca.org.au/" target="_blank">
               <img
                 src="/images/membership/AFCA_logo_white_lores.png"
                 alt="AFCA"
-                class="h-5 md:h-8 lg:h-10 w-auto mr-auto mb-4"
+                class="w-auto h-5 mb-4 mr-auto md:h-8 lg:h-10"
               />
             </a>
           </div>
         </div>
         <div class="border-l-0 md:border-l-2 border-primary">
-          <h5 class="uppercase text-primary font-bold mb-4">Follow Us</h5>
-          <div class="flex gap-4 md:gap-6 justify-center items-center">
+          <h5 class="mb-4 font-bold uppercase text-primary">Follow Us</h5>
+          <div class="flex items-center justify-center gap-4 md:gap-6">
             <a
               href="https://www.facebook.com/MJO-Mortgage-Solutions-105146435792036"
               target="_blank"
@@ -69,7 +70,7 @@
             </a>
             <!-- <a href="#" target="_blank" alt="LinkedIn"> -->
             <svg
-              class="sosmed h-8 w-8"
+              class="w-8 h-8 sosmed"
               viewBox="0 0 32 32"
               xmlns="http://www.w3.org/2000/svg"
             >
@@ -81,7 +82,7 @@
           </div>
         </div>
         <div class="col-span-2 mt-4">
-          <p class="text-sm font-light text-white text-center">
+          <p class="text-sm font-light text-center text-white">
             We acknowledge the Traditional Owners of the land where we work and
             live. We pay our respects to Elders past, present and emerging. We
             celebrate the stories, culture and traditions of Aboriginal and
@@ -89,7 +90,7 @@
             live on this land.
           </p>
         </div>
-        <div class="flex col-span-2 justify-center gap-4 h-5 mb-2">
+        <div class="flex justify-center h-5 col-span-2 gap-4 mb-2">
           <img
             src="/images/aboriginal-flag.png"
             alt="Aboriginal Flag"
@@ -102,26 +103,26 @@
           />
         </div>
         <div
-          class="flex flex-col md:flex-row md:gap-2 items-center h-full justify-center pt-4 col-span-2"
+          class="flex flex-col items-center justify-center h-full col-span-2 pt-4 md:flex-row md:gap-2"
         >
           <NuxtLink to="/privacy">
-            <p class="text-xs text-primary md:border-r-2 pr-2 font-bold">
+            <p class="pr-2 text-xs font-bold text-primary md:border-r-2">
               Privacy Policy
             </p>
           </NuxtLink>
-          <p class="text-xs text-primary md:border-r-2 pr-2">
+          <p class="pr-2 text-xs text-primary md:border-r-2">
             <span class="font-bold">ABN: </span>
             61 921 877 088
           </p>
-          <p class="text-xs text-primary md:border-r-2 pr-2">
+          <p class="pr-2 text-xs text-primary md:border-r-2">
             <span class="font-bold">Credit Representative Number: </span>
             541 627
           </p>
-          <p class="font-bold text-xs text-primary">
+          <p class="text-xs font-bold text-primary">
             &copy; <span class="font-bold">2023</span>
           </p>
           <div class="flex my-auto">
-            <p class="font-light text-xs uppercase">
+            <p class="text-xs font-light uppercase">
               <a
                 href="https://generaltechnical.com.au"
                 target="_blank"
