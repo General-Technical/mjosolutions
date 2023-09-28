@@ -1,7 +1,7 @@
 <template>
-  <div class="w-screen bg-background">
+  <div class="w-screen pt-10 bg-background">
     <footer class="container">
-      <a href="/contact" class="nav-item call-button">Contact</a>
+      <a href="/contact" class="nav-item call-button">Get in touch</a>
       <div
         class="grid grid-cols-1 pb-2 mt-12 border-b-0 rounded-b-none md:grid-cols-2 bg-background"
       >

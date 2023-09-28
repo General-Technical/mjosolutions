@@ -1,13 +1,13 @@
 <template>
   <NuxtLayout>
     <ContentDoc path="/contact" v-slot="{ doc }">
-      <section id="contact" class="relative min-h-screen py-20 bg-background">
+      <section id="contact" class="relative min-h-screen bg-background">
         <div
           bgImage
           :style="{ backgroundImage: 'url(' + doc.image + ')' }"
           class="absolute z-0 w-screen h-full bg-cover border-primary"
         />
-        <div class="container pb-24">
+        <div class="container">
           <FadeUp class="pt-10 bg-opacity-80 card h-fit bg-background">
             <h1>
               {{ doc.header }}

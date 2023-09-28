@@ -72,7 +72,7 @@
         <div
           bgImage
           :style="{ backgroundImage: 'url(' + doc.image + ')' }"
-          class="absolute z-0 w-screen h-full bg-cover -top-12 border-primary"
+          class="absolute z-0 w-screen bg-cover -top-12 border-primary"
         />
       </section>
     </ContentDoc>
