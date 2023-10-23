@@ -3,7 +3,4 @@ export default defineNuxtConfig({
     modules: ['@nuxtjs/tailwindcss', '@nuxt/content'],
     css: ["~/assets/css/tailwind.css"],
     components: true,
-    // content: {
-    //     documentDriven: true,
-    //   },
 })
