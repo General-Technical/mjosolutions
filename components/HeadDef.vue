@@ -41,31 +41,5 @@
     <Script src="https://unpkg.com/@alpinejs/intersect@3.x.x/dist/cdn.min.js" />
     <Script src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js" defer />
     <Script src="https://www.cognitoforms.com/f/iframe.js"></Script>
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-1CXM95S50C"
-    ></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag("config", "G-1CXM95S50C");
-    </script>
   </Head>
 </template>
-
-<script setup>
-import { useHead } from "@vueuse/head";
-
-useHead({
-  script: [
-    {
-      src: "https://www.googletagmanager.com/gtag/js?id=G-1CXM95S50C",
-      async: true,
-    },
-  ],
-});
-</script>
