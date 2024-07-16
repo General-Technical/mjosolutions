@@ -72,6 +72,13 @@
           </div>
         </FadeUp>
       </section>
+      <section>
+        <!-- ElfSite -->
+        <FadeUp class="container">
+          <ElfsightInstagram />
+          <ElfsightGoogle />
+        </FadeUp>
+      </section>
     </ContentDoc>
   </NuxtLayout>
 </template>
